@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15146/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk
+END
+FeedletChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/FeedletChunk.java
+END
+RawChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15074/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/RawChunk.java
+END
+FeedHeaderChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/FeedHeaderChunk.java
+END
+PropertyTableChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/PropertyTableChunk.java
+END
+StringTableChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/StringTableChunk.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/Chunk.java
+END
+EventTypeSpaceChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/EventTypeSpaceChunk.java
+END
+EventChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jikesrvm/!svn/ver/15146/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/EventChunk.java
+END
+EventTypeChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15059/rvmroot/trunk/external/tuningforklib/src/com/ibm/tuningfork/tracegen/chunk/EventTypeChunk.java
+END

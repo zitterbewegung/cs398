@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy
+END
+ByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/ByteStream.java
+END
+ServerSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/ServerSpace.java
+END
+IntStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/IntStream.java
+END
+ServerInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/ServerInterpreter.java
+END
+ShortStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/ShortStream.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/jikesrvm/org/jikesrvm/mm/mmtk/gcspy/Util.java
+END

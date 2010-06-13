@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation
+END
+StringEventCounterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/StringEventCounterData.java
+END
+Instrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/Instrumentation.java
+END
+MethodInvocationCounterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/MethodInvocationCounterData.java
+END
+CounterNameFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/CounterNameFunction.java
+END
+ManagedCounterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/ManagedCounterData.java
+END
+MethodNameFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/MethodNameFunction.java
+END
+CounterArrayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/CounterArrayManager.java
+END
+YieldpointCounterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/instrumentation/YieldpointCounterData.java
+END

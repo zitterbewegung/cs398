@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect
+END
+VMArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/VMArray.java
+END
+VMMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/VMMethod.java
+END
+VMField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/VMField.java
+END
+JikesRVMSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/JikesRVMSupport.java
+END
+VMConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/VMConstructor.java
+END
+JikesRVMHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/reflect/JikesRVMHelpers.java
+END

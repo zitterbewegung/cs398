@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15772/rvmroot/trunk/libraryInterface/Common/src/java/lang
+END
+Class.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15714/rvmroot/trunk/libraryInterface/Common/src/java/lang/Class.java
+END
+Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/Object.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/Compiler.java
+END
+VMCommonLibrarySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/VMCommonLibrarySupport.java
+END

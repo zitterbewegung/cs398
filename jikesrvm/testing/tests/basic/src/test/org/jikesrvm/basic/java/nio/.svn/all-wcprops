@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/nio
+END
+TestFileChannel.expected
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/nio/TestFileChannel.expected
+END
+TestFileChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/nio/TestFileChannel.java
+END

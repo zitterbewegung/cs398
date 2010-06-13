@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel
+END
+ITableArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ITableArray.java
+END
+ITable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ITable.java
+END
+MiscHeaderConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/MiscHeaderConstants.java
+END
+MiscHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/MiscHeader.java
+END
+ThinLockConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15697/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ThinLockConstants.java
+END
+TIBLayoutConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/TIBLayoutConstants.java
+END
+TIB.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/TIB.java
+END
+FieldLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayout.java
+END
+FieldLayoutContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayoutContext.java
+END
+ObjectModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15685/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ObjectModel.java
+END
+JavaHeaderConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/JavaHeaderConstants.java
+END
+BootImageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/BootImageInterface.java
+END
+IMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/IMT.java
+END
+FieldLayoutPacked.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayoutPacked.java
+END
+JavaHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/JavaHeader.java
+END
+RuntimeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/RuntimeTable.java
+END
+FieldLayoutUnpacked.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayoutUnpacked.java
+END

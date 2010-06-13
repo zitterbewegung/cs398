@@ -1,0 +1,43 @@
+10
+
+dir
+15857
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
+
+
+
+2009-12-17T11:53:26.987109Z
+15802
+steveb-oss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dce3f540-011b-0410-8642-b5df2b1aa704
+
+lang
+dir
+
+nio
+dir
+
+net
+dir
+
+io
+dir
+
+util
+dir
+

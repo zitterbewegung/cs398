@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/runtimesupport/ppc
+END
+OptGCMapIteratorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/runtimesupport/ppc/OptGCMapIteratorConstants.java
+END
+OptExceptionDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/runtimesupport/ppc/OptExceptionDeliverer.java
+END
+OptGCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/runtimesupport/ppc/OptGCMapIterator.java
+END

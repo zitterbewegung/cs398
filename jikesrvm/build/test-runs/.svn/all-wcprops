@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/jikesrvm/!svn/ver/15836/rvmroot/trunk/build/test-runs
+END
+mmtk-unit-tests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15036/rvmroot/trunk/build/test-runs/mmtk-unit-tests.properties
+END
+core.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/core.properties
+END
+sanity-tier2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/sanity-tier2.properties
+END
+jsr166.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/jsr166.properties
+END
+perf.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/perf.properties
+END
+gcmap-sanity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/gcmap-sanity.properties
+END
+performance.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/performance.properties
+END
+sanity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15807/rvmroot/trunk/build/test-runs/sanity.properties
+END
+quarantine.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/quarantine.properties
+END
+x10.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/x10.properties
+END
+mmtk-harness.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15836/rvmroot/trunk/build/test-runs/mmtk-harness.properties
+END
+compiler-dna.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/compiler-dna.properties
+END
+pre-commit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/pre-commit.properties
+END
+SPECjvm2008.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/SPECjvm2008.properties
+END
+tiny.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/tiny.properties
+END
+stress.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/test-runs/stress.properties
+END

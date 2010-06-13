@@ -1,0 +1,115 @@
+10
+
+dir
+15857
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
+
+
+
+2010-05-14T06:34:31.762977Z
+15840
+rgarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dce3f540-011b-0410-8642-b5df2b1aa704
+
+SPECjbb2005
+dir
+
+jni
+dir
+
+basic
+dir
+
+SPECjvm2008
+dir
+
+perf-dacapo
+dir
+
+soot
+dir
+
+opttests
+dir
+
+dacapo-head
+dir
+
+dacapo
+dir
+
+jBYTEmark
+dir
+
+SPECjvm98
+dir
+
+ipsixql
+dir
+
+gctest
+dir
+
+perf-jbb2000
+dir
+
+xerces
+dir
+
+javalex
+dir
+
+jgf-threads
+dir
+
+perf-jbb2005
+dir
+
+gctracingtest
+dir
+
+jgf
+dir
+
+perf-jvm98
+dir
+
+mmtk
+dir
+
+x10
+dir
+
+classpath-testsuite
+dir
+
+mmtk-harness
+dir
+
+SPECjbb2000
+dir
+
+jsr166-tck
+dir
+
+CaffeineMark
+dir
+
+pseudojbb
+dir
+

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir
+END
+GenericPhysicalRegisterTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/GenericPhysicalRegisterTools.java
+END
+OperandEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/OperandEnumeration.java
+END
+AbstractRegisterPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/AbstractRegisterPool.java
+END
+LIRInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/LIRInfo.java
+END
+BasicBlockEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/BasicBlockEnumeration.java
+END
+MIRInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/MIRInfo.java
+END
+RegisterOperandEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/RegisterOperandEnumeration.java
+END
+MachineSpecificIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/MachineSpecificIR.java
+END
+WeightedBranchTargets.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/WeightedBranchTargets.java
+END
+ExceptionHandlerBasicBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ExceptionHandlerBasicBlock.java
+END
+IR.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/IR.java
+END
+GenericRegisterPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/GenericRegisterPool.java
+END
+Instruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/Instruction.java
+END
+IREnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/IREnumeration.java
+END
+EmptyBasicBlockEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/EmptyBasicBlockEnumeration.java
+END
+GCIRMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/GCIRMap.java
+END
+ExceptionHandlerBasicBlockBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ExceptionHandlerBasicBlockBag.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/Register.java
+END
+RegSpillListElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/RegSpillListElement.java
+END
+IRSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/IRSummary.java
+END
+InstructionEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/InstructionEnumeration.java
+END
+GenericPhysicalRegisterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/GenericPhysicalRegisterSet.java
+END
+ControlFlowGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ControlFlowGraph.java
+END
+IRTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/IRTools.java
+END
+GCIRMapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/GCIRMapElement.java
+END
+BasicBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/BasicBlock.java
+END
+HIRInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/HIRInfo.java
+END

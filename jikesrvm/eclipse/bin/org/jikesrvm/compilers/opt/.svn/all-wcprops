@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15850/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt
+END
+ExpressionFolding.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ExpressionFolding.java
+END
+OptimizingCompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/OptimizingCompilerException.java
+END
+Simplifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/Simplifier.java
+END
+MagicNotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/MagicNotImplementedException.java
+END
+LocalConstantProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/LocalConstantProp.java
+END
+FieldDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/FieldDatabase.java
+END
+DefUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/DefUse.java
+END
+LocalCastOptimization.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/LocalCastOptimization.java
+END
+InstrumentedEventCounterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/InstrumentedEventCounterManager.java
+END
+StaticFieldReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/StaticFieldReader.java
+END
+AdjustBranchProbabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/AdjustBranchProbabilities.java
+END
+OperationNotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/OperationNotImplementedException.java
+END
+LocalCSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/LocalCSE.java
+END
+LocalCopyProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/LocalCopyProp.java
+END
+FieldAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/FieldAnalysis.java
+END
+Simple.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/Simple.java
+END
+ClassLoaderProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ClassLoaderProxy.java
+END
+MutateSplits.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/MutateSplits.java
+END
+NullCheckCombining.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/NullCheckCombining.java
+END

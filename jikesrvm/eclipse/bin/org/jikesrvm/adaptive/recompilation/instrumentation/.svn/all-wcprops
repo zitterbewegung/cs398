@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation
+END
+InsertMethodInvocationCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/InsertMethodInvocationCounter.java
+END
+AOSInstrumentationPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/AOSInstrumentationPlan.java
+END
+InsertYieldpointCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/InsertYieldpointCounters.java
+END
+CounterBasedSampling.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/CounterBasedSampling.java
+END
+InsertInstructionCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/InsertInstructionCounters.java
+END
+InstrumentationSamplingFramework.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/InstrumentationSamplingFramework.java
+END
+LowerInstrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/recompilation/instrumentation/LowerInstrumentation.java
+END

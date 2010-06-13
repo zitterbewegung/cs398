@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir
+END
+GenerationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/GenerationContext.java
+END
+IRGenOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/IRGenOptions.java
+END
+BC2IR.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/BC2IR.java
+END
+OsrPointConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/OsrPointConstructor.java
+END
+ConvertBCtoHIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/ConvertBCtoHIR.java
+END
+GenerateMagic.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/bc2ir/GenerateMagic.java
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 129
+ParseException.java
+ParserConstants.java
+Parser.java
+ParserTokenManager.java
+SimpleCharStream.java
+Token.java
+TokenMgrError.java
+
+END

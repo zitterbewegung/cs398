@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc
+END
+OperatorList_Mem32.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/OperatorList_Mem32.dat
+END
+OperatorList_Alu32.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/OperatorList_Alu32.dat
+END
+OperatorList_Common.dat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/OperatorList_Common.dat
+END
+OperatorList_Mem64.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/OperatorList_Mem64.dat
+END
+OperatorList_Alu64.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/OperatorList_Alu64.dat
+END
+InstructionFormatList.dat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ppc/InstructionFormatList.dat
+END

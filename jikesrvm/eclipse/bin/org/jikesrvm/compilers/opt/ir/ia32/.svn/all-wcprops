@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32
+END
+MachineSpecificIRIA.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32/MachineSpecificIRIA.java
+END
+PhysicalRegisterTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32/PhysicalRegisterTools.java
+END
+PhysicalDefUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32/PhysicalDefUse.java
+END
+PhysicalRegisterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32/PhysicalRegisterSet.java
+END
+RegisterPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/ia32/RegisterPool.java
+END

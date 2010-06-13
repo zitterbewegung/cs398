@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed
+END
+ArchitecturalWord.template
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/ArchitecturalWord.template
+END
+AddressArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/AddressArray.java
+END
+ObjectReferenceArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/ObjectReferenceArray.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/Address.java
+END
+ObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/ObjectReference.java
+END
+OffsetArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/OffsetArray.java
+END
+ExtentArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/ExtentArray.java
+END
+Offset.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/Offset.java
+END
+Extent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/Extent.java
+END
+WordArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/WordArray.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/vmmagic/src/org/vmmagic/unboxed/Word.java
+END

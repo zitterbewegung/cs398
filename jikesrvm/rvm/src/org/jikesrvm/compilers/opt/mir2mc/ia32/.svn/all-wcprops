@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15683/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/mir2mc/ia32
+END
+FinalMIRExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/mir2mc/ia32/FinalMIRExpansion.java
+END
+AssemblerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15683/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/mir2mc/ia32/AssemblerBase.java
+END

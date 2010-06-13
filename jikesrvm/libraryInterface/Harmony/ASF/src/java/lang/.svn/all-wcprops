@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15752/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang
+END
+Runtime.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15752/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/Runtime.java
+END
+System.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/14980/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/System.java
+END
+ThreadGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/14481/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/ThreadGroup.java
+END
+String.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/14461/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/String.java
+END
+Thread.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15544/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/Thread.java
+END
+Throwable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15544/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/Throwable.java
+END
+Package.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/14507/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/Package.java
+END
+ClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/14728/rvmroot/trunk/libraryInterface/Harmony/ASF/src/java/lang/ClassLoader.java
+END

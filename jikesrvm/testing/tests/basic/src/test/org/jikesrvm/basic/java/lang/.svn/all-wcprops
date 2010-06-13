@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/lang
+END
+TestMath.expected
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/lang/TestMath.expected
+END
+TestMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/java/lang/TestMath.java
+END

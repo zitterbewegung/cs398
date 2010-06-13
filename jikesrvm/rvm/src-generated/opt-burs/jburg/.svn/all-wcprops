@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/jburg
+END
+jburg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/14918/rvmroot/trunk/rvm/src-generated/opt-burs/jburg/jburg.h
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/11819/rvmroot/trunk/rvm/src-generated/opt-burs/jburg/LICENSE.txt
+END
+burg.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/jburg/burg.template
+END
+jburg.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/14918/rvmroot/trunk/rvm/src-generated/opt-burs/jburg/jburg.c
+END
+gram.y
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/11723/rvmroot/trunk/rvm/src-generated/opt-burs/jburg/gram.y
+END

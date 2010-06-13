@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32
+END
+BaselineCompilerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32/BaselineCompilerImpl.java
+END
+BaselineExceptionDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32/BaselineExceptionDeliverer.java
+END
+BaselineMagic.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32/BaselineMagic.java
+END
+BaselineGCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15688/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32/BaselineGCMapIterator.java
+END
+Barriers.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ia32/Barriers.java
+END

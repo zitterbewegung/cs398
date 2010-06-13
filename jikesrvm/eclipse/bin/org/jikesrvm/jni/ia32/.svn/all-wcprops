@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ia32
+END
+JNIExceptionDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ia32/JNIExceptionDeliverer.java
+END
+JNIGCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ia32/JNIGCMapIterator.java
+END
+JNIHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ia32/JNIHelpers.java
+END
+JNICompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ia32/JNICompiler.java
+END

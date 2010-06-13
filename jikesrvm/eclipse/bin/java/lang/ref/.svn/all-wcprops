@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15772/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref
+END
+PhantomReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref/PhantomReference.java
+END
+WeakReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref/WeakReference.java
+END
+JikesRVMSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref/JikesRVMSupport.java
+END
+SoftReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15665/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref/SoftReference.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15772/rvmroot/trunk/libraryInterface/Common/src/java/lang/ref/Reference.java
+END

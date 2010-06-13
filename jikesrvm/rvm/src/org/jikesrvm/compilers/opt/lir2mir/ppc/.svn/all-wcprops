@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/lir2mir/ppc
+END
+ConvertALUOperators.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/lir2mir/ppc/ConvertALUOperators.java
+END
+BURS_Helpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/lir2mir/ppc/BURS_Helpers.java
+END
+ComplexLIR2MIRExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/lir2mir/ppc/ComplexLIR2MIRExpansion.java
+END
+NormalizeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/lir2mir/ppc/NormalizeConstants.java
+END

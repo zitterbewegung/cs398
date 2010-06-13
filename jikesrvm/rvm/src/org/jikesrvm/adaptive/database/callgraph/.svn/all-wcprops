@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/database/callgraph
+END
+CallSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/database/callgraph/CallSite.java
+END
+WeightedCallTargets.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/database/callgraph/WeightedCallTargets.java
+END
+PartialCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/database/callgraph/PartialCallGraph.java
+END

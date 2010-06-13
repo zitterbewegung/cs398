@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline
+END
+BuildReferenceMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15684/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BuildReferenceMaps.java
+END
+EdgeCounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/EdgeCounts.java
+END
+BaselineCompiledMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15688/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BaselineCompiledMethod.java
+END
+SwitchBranchProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/SwitchBranchProfile.java
+END
+BranchProfiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BranchProfiles.java
+END
+ConditionalBranchProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ConditionalBranchProfile.java
+END
+BuildBB.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BuildBB.java
+END
+BaselineBootImageCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BaselineBootImageCompiler.java
+END
+BaselineExceptionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BaselineExceptionTable.java
+END
+JSRInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/JSRInfo.java
+END
+PendingRETInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/PendingRETInfo.java
+END
+BaselineCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BaselineCompiler.java
+END
+UnusualMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/UnusualMaps.java
+END
+BranchProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BranchProfile.java
+END
+ReferenceMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/ReferenceMaps.java
+END
+BBConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BBConstants.java
+END
+BasicBlockFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BasicBlockFactory.java
+END
+TemplateCompilerFramework.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/TemplateCompilerFramework.java
+END
+JSRSubroutineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/JSRSubroutineInfo.java
+END
+BasicBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/baseline/BasicBlock.java
+END

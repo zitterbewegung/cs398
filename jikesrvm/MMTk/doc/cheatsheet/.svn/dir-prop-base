@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 60
+cheatsheet.blg
+cheatsheet.aux
+cheatsheet.bbl
+cheatsheet.log
+
+END

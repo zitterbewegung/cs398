@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation
+END
+TestAnnotationInheritance.expected
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/jikesrvm/!svn/ver/14673/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation/TestAnnotationInheritance.expected
+END
+TestAnnotationInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation/TestAnnotationInheritance.java
+END
+TestAnnotations.expected
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/jikesrvm/!svn/ver/14722/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation/TestAnnotations.expected
+END
+TestAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation/TestAnnotations.java
+END

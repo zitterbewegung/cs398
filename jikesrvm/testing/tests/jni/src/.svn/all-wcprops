@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src
+END
+TestDeadVPQueueWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestDeadVPQueueWorker.c
+END
+t3GT3.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GT3.java
+END
+FieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.java
+END
+NativeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NativeException.java
+END
+FieldAccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.c
+END
+NativeException.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NativeException.c
+END
+tNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNative.java
+END
+BlockingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/BlockingWorker.java
+END
+MonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MonitorTest.java
+END
+TestJNIDirectBuffers.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestJNIDirectBuffers.c
+END
+ClassQuery.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuery.c
+END
+StringFunctions.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StringFunctions.c
+END
+TestJNIGetFieldID.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15713/rvmroot/trunk/testing/tests/jni/src/TestJNIGetFieldID.java
+END
+TestJNIGetFieldID.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15712/rvmroot/trunk/testing/tests/jni/src/TestJNIGetFieldID.c
+END
+ArrayFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArrayFunctions.java
+END
+ArgumentPassing.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArgumentPassing.java
+END
+StringRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StringRegion.java
+END
+tNative.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNative.c
+END
+JNI_OnLoad.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/JNI_OnLoad.c
+END
+SelectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/SelectTest.java
+END
+JNI12.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/JNI12.c
+END
+MethodInvocationSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MethodInvocationSub.java
+END
+NullIdentity.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NullIdentity.c
+END
+Allocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Allocation.java
+END
+Allocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Allocation.c
+END
+tBlockingThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tBlockingThreads.java
+END
+TestJNIDirectBuffers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestJNIDirectBuffers.java
+END
+StackResize.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StackResize.c
+END
+GetEnv.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/GetEnv.c
+END
+Mangled_Name_s_.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Mangled_Name_s_.c
+END
+myMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/myMain.java
+END
+NativeThreadsWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NativeThreadsWorker.java
+END
+GetEnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/GetEnv.h
+END
+testlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/testlib.c
+END
+Worker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Worker.java
+END
+ClassQuerySuper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuerySuper.java
+END
+MethodInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MethodInvocation.java
+END
+StringRegion.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StringRegion.c
+END
+JNI_OnLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/JNI_OnLoad.java
+END
+NullIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NullIdentity.java
+END
+TestRuntimeExec.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestRuntimeExec.java
+END
+TestProcessDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestProcessDestroy.java
+END
+GetEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/GetEnv.java
+END
+Mangled_Name_s_.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Mangled_Name_s_.java
+END
+MonitorTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MonitorTest.c
+END
+ClassQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuery.java
+END
+t3GTWorker2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GTWorker2.java
+END
+TestNestedGC.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.c
+END
+StringFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StringFunctions.java
+END
+TestDeadVPQueueWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestDeadVPQueueWorker.java
+END
+t3GT3.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GT3.c
+END
+TestDeadVPQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestDeadVPQueue.java
+END
+ArrayFunctions.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArrayFunctions.c
+END
+ArgumentPassing.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArgumentPassing.c
+END
+MethodInvocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MethodInvocation.c
+END
+SelectTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/SelectTest.c
+END
+AttachJVM.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/AttachJVM.c
+END
+JNI12.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/JNI12.java
+END
+CriticalCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.java
+END
+tNativeThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNativeThreads.java
+END
+CriticalCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.c
+END
+tNativeThreads.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNativeThreads.c
+END
+StackResize.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/StackResize.java
+END
+tBlockingThreads.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tBlockingThreads.c
+END
+TestGC.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestGC.java
+END
+TestGC.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestGC.c
+END
+TestNestedGC.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.java
+END
+BlockingThreadsWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/BlockingThreadsWorker.java
+END
+t3GT3Worker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GT3Worker.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes
+END
+LoadIntConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadIntConst.java
+END
+InvokeStatic.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/InvokeStatic.java
+END
+LoadLongConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadLongConst.java
+END
+IntStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/IntStore.java
+END
+Goto.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/Goto.java
+END
+InvokeCompiledMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/InvokeCompiledMethod.java
+END
+ParamInitEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/ParamInitEnd.java
+END
+LongStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LongStore.java
+END
+LoadFloatConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadFloatConst.java
+END
+PseudoBytecode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/PseudoBytecode.java
+END
+LoadDoubleConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadDoubleConst.java
+END
+LoadWordConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadWordConst.java
+END
+FloatStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/FloatStore.java
+END
+AConstNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/AConstNull.java
+END
+DoubleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/DoubleStore.java
+END
+CheckCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/CheckCast.java
+END
+RefStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/RefStore.java
+END
+Nop.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/Nop.java
+END
+LoadRetAddrConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/LoadRetAddrConst.java
+END
+Pop.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes/Pop.java
+END

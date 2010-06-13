@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32
+END
+PostThreadSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32/PostThreadSwitch.java
+END
+BaselineExecutionStateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32/BaselineExecutionStateExtractor.java
+END
+OptExecutionStateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32/OptExecutionStateExtractor.java
+END
+CodeInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32/CodeInstaller.java
+END
+TempRegisters.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ia32/TempRegisters.java
+END

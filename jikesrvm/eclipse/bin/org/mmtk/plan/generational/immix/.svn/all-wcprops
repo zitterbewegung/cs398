@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix
+END
+GenImmixCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmixCollector.java
+END
+GenImmixConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmixConstraints.java
+END
+GenImmixMatureTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmixMatureTraceLocal.java
+END
+GenImmixMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmixMutator.java
+END
+GenImmix.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmix.java
+END
+GenImmixMatureDefragTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/immix/GenImmixMatureDefragTraceLocal.java
+END

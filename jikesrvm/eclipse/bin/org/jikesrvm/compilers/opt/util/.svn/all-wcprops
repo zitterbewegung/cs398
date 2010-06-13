@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/Tree.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/Graph.java
+END
+TreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TreeNode.java
+END
+GraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphNode.java
+END
+SpaceEffGraphNodeListHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraphNodeListHeader.java
+END
+GraphNodeEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphNodeEnumerator.java
+END
+ReverseDFSenumerateByFinish.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/ReverseDFSenumerateByFinish.java
+END
+TopSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TopSort.java
+END
+ReverseEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/ReverseEnumerator.java
+END
+DFSenumerateByFinish.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/DFSenumerateByFinish.java
+END
+CompoundEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/CompoundEnumerator.java
+END
+GraphEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphEdge.java
+END
+FilterEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/FilterEnumerator.java
+END
+ReverseFilteredDFSenumerateByFinish.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/ReverseFilteredDFSenumerateByFinish.java
+END
+BitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/BitSet.java
+END
+TopSortInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TopSortInterface.java
+END
+GraphEdgeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphEdgeFilter.java
+END
+GraphUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphUtilities.java
+END
+FilteredDFSenumerateByFinish.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/FilteredDFSenumerateByFinish.java
+END
+SpaceEffGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraph.java
+END
+FilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/FilterIterator.java
+END
+SpaceEffGraphNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraphNodeList.java
+END
+EmptyEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/EmptyEnumerator.java
+END
+Bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/Bits.java
+END
+SpaceEffGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraphNode.java
+END
+Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/Stack.java
+END
+BitSetMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/BitSetMapping.java
+END
+EmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/EmptyIterator.java
+END
+GraphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphElement.java
+END
+TreeTopDownEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TreeTopDownEnumerator.java
+END
+GraphNodeEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/GraphNodeEnumeration.java
+END
+DepthFirstEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/DepthFirstEnumerator.java
+END
+SpaceEffGraphEdgeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraphEdgeList.java
+END
+TreeNodeChildrenEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TreeNodeChildrenEnumerator.java
+END
+SpaceEffGraphEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SpaceEffGraphEdge.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/Queue.java
+END
+SortedGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SortedGraphNode.java
+END
+TreeBottomUpEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/TreeBottomUpEnumerator.java
+END
+SortedGraphIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/util/SortedGraphIterator.java
+END

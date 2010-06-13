@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15785/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape
+END
+SummaryDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/SummaryDatabase.java
+END
+AggregateReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/AggregateReplacer.java
+END
+ObjectReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/ObjectReplacer.java
+END
+EscapeTransformations.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/EscapeTransformations.java
+END
+SimpleEscape.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15785/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/SimpleEscape.java
+END
+FI_EscapeSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/FI_EscapeSummary.java
+END
+ShortArrayReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/ShortArrayReplacer.java
+END
+UnsyncReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/UnsyncReplacer.java
+END
+MethodSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/escape/MethodSummary.java
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode
+END
+TestArrayAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestArrayAccess.java
+END
+TestThrownException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestThrownException.java
+END
+TestClassHierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClassHierarchy.java
+END
+TestFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFieldAccess.java
+END
+TestClassInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClassInitializer.java
+END
+TestMiranda.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestMiranda.java
+END
+TestInvoke.expected
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestInvoke.expected
+END
+TestConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestConstants.java
+END
+TestFinally.expected
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFinally.expected
+END
+TestReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestReturn.java
+END
+TestArrayAccess.expected
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/11424/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestArrayAccess.expected
+END
+TestThrownException.expected
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/14053/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestThrownException.expected
+END
+TestClassHierarchy.expected
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/13779/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClassHierarchy.expected
+END
+TestResolveOnCheckcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnCheckcast.java
+END
+TestFieldAccess.expected
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFieldAccess.expected
+END
+TestResolveOnInstanceof.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnInstanceof.java
+END
+TestCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestCompare.java
+END
+TestInstanceOf.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestInstanceOf.java
+END
+TestArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestArithmetic.java
+END
+TestClassInitializer.expected
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClassInitializer.expected
+END
+TestMiranda.expected
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestMiranda.expected
+END
+TestConstants.expected
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/11751/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestConstants.expected
+END
+TestReturn.expected
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestReturn.expected
+END
+TestClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClone.java
+END
+TestSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestSwitch.java
+END
+TestResolveOnCheckcast.expected
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/jikesrvm/!svn/ver/11462/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnCheckcast.expected
+END
+TestResolveOnInstanceof.expected
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/jikesrvm/!svn/ver/11462/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnInstanceof.expected
+END
+TestCompare.expected
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestCompare.expected
+END
+TestFloatingRem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFloatingRem.java
+END
+TestArithmetic.expected
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/14675/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestArithmetic.expected
+END
+TestResolveOnInvokeInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnInvokeInterface.java
+END
+TestInstanceOf.expected
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/11421/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestInstanceOf.expected
+END
+TestClone.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestClone.expected
+END
+TestSwitch.expected
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestSwitch.expected
+END
+TestFloatingRem.expected
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFloatingRem.expected
+END
+TestResolveOnInvokeInterface.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/jikesrvm/!svn/ver/12042/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestResolveOnInvokeInterface.expected
+END
+TestInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestInvoke.java
+END
+TestFinally.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode/TestFinally.java
+END

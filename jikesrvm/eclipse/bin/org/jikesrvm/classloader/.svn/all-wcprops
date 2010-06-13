@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15826/rvmroot/trunk/rvm/src/org/jikesrvm/classloader
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/Atom.java
+END
+BootImageMemberLookupError.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/BootImageMemberLookupError.java
+END
+FieldReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/FieldReference.java
+END
+RVMArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15826/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMArray.java
+END
+RVMType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMType.java
+END
+RVMField.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMField.java
+END
+Primitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/Primitive.java
+END
+LocalVariableTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/LocalVariableTable.java
+END
+ApplicationClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/ApplicationClassLoader.java
+END
+RVMClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMClassLoader.java
+END
+InterfaceMethodSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/InterfaceMethodSignature.java
+END
+DynamicTypeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/DynamicTypeCheck.java
+END
+NativeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/NativeMethod.java
+END
+ClassFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/ClassFileReader.java
+END
+SpecializedMethodManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/SpecializedMethodManager.java
+END
+RVMClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15682/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMClass.java
+END
+BootstrapClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/BootstrapClassLoader.java
+END
+ExceptionHandlerMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/ExceptionHandlerMap.java
+END
+BytecodeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/BytecodeConstants.java
+END
+RVMMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMMember.java
+END
+SpecializedMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/SpecializedMethod.java
+END
+RVMAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMAnnotation.java
+END
+MethodReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/MethodReference.java
+END
+TableBasedDynamicLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/TableBasedDynamicLinker.java
+END
+TypeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/TypeReference.java
+END
+MethodVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/MethodVector.java
+END
+AbstractMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/AbstractMethod.java
+END
+TypeDescriptorParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/TypeDescriptorParsing.java
+END
+RVMMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/RVMMethod.java
+END
+FieldVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/FieldVector.java
+END
+UnboxedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/UnboxedType.java
+END
+ClassLoadingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/ClassLoadingListener.java
+END
+BytecodeStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/BytecodeStream.java
+END
+TypeReferenceVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/TypeReferenceVector.java
+END
+MemberReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/MemberReference.java
+END
+AnnotatedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/AnnotatedElement.java
+END
+UTF8Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/UTF8Convert.java
+END
+NormalMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/NormalMethod.java
+END
+ClassLoaderConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15681/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/ClassLoaderConstants.java
+END
+InterfaceInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/classloader/InterfaceInvocation.java
+END

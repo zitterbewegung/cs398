@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/jikesrvm/!svn/ver/15834/rvmroot/trunk/build/components
+END
+pmd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/pmd.xml
+END
+asm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/asm.xml
+END
+classpath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15834/rvmroot/trunk/build/components/classpath.xml
+END
+gcspy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/gcspy.xml
+END
+javacc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/javacc.xml
+END
+dacapo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/dacapo.xml
+END
+junit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/junit.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/checkstyle.xml
+END
+ecj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/ecj.xml
+END
+jdocs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/jdocs.xml
+END
+jai.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/jai.xml
+END
+specjvm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/specjvm.xml
+END
+x10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/x10.xml
+END
+jsr166-tck.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15833/rvmroot/trunk/build/components/jsr166-tck.xml
+END
+base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/base.xml
+END
+caffeinemark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/components/caffeinemark.xml
+END
+harmony.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jikesrvm/!svn/ver/15765/rvmroot/trunk/build/components/harmony.xml
+END

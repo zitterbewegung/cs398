@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32
+END
+ExpandFPRStackConvention.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/ExpandFPRStackConvention.java
+END
+StackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/StackManager.java
+END
+MIRSplitRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/MIRSplitRanges.java
+END
+RegisterPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/RegisterPreferences.java
+END
+CallingConvention.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/CallingConvention.java
+END
+RegisterRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/RegisterRestrictions.java
+END
+PhysicalRegisterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc/ia32/PhysicalRegisterConstants.java
+END

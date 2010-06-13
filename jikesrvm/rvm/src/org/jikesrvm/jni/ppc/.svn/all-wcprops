@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ppc
+END
+JNIGCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ppc/JNIGCMapIterator.java
+END
+JNIHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ppc/JNIHelpers.java
+END
+JNICompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ppc/JNICompiler.java
+END
+JNIStackframeLayoutConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/ppc/JNIStackframeLayoutConstants.java
+END

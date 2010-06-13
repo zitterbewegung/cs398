@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15810/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface
+END
+MemoryManagerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15772/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/MemoryManagerConstants.java
+END
+GCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/GCMapIterator.java
+END
+SpecializedScanMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/SpecializedScanMethod.java
+END
+MemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15810/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/MemoryManager.java
+END
+DebugUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/DebugUtil.java
+END
+Handshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/Handshake.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/Monitor.java
+END
+SynchronizationBarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15772/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/SynchronizationBarrier.java
+END
+Barriers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/Barriers.java
+END
+ThreadContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/ThreadContext.java
+END
+CollectorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15688/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/CollectorThread.java
+END
+GCMapIteratorGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/GCMapIteratorGroup.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jikesrvm/!svn/ver/15838/rvmroot/trunk/build/primordials
+END
+RVM_IA32.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/primordials/RVM_IA32.txt
+END
+RVM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15685/rvmroot/trunk/build/primordials/RVM.txt
+END
+RVM_AOS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/primordials/RVM_AOS.txt
+END
+RVM_OPT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/primordials/RVM_OPT.txt
+END
+RVM_PPC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/primordials/RVM_PPC.txt
+END
+Classpath-0.97.2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15838/rvmroot/trunk/build/primordials/Classpath-0.97.2.txt
+END
+Harmony.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15765/rvmroot/trunk/build/primordials/Harmony.txt
+END

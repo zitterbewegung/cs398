@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads
+END
+TestBackEdgeGC.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestBackEdgeGC.java
+END
+TestInterruptedSleep2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/jikesrvm/!svn/ver/12715/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedSleep2.expected
+END
+TestStop.expected
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestStop.expected
+END
+TestTimeSlicing.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestTimeSlicing.java
+END
+TestInterruptAndSpin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptAndSpin.java
+END
+TestBackEdgeGC.expected
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestBackEdgeGC.expected
+END
+TestSuspend.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestSuspend.java
+END
+TestNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestNotification.java
+END
+TestTimedWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestTimedWait.java
+END
+TestTimeSlicing.expected
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestTimeSlicing.expected
+END
+TestInterruptAndSpin.expected
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptAndSpin.expected
+END
+TestInterruptedWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedWait.java
+END
+Mailbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/Mailbox.java
+END
+TestShutdownHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestShutdownHook.java
+END
+TestInterruptedSleep.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedSleep.java
+END
+TestDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestDispatch.java
+END
+XThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/XThread.java
+END
+TestSuspend.expected
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/13134/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestSuspend.expected
+END
+TestParallelHardwareTrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestParallelHardwareTrap.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/Task.java
+END
+TestVolatiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestVolatiles.java
+END
+TestNotification.expected
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestNotification.expected
+END
+TestTimedWait.expected
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestTimedWait.expected
+END
+TestShutdownHookAfterExit.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestShutdownHookAfterExit.java
+END
+Flag.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/Flag.java
+END
+TestInterruptedWait.expected
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedWait.expected
+END
+TestShutdownHook.expected
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jikesrvm/!svn/ver/13141/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestShutdownHook.expected
+END
+TestInterruptedSleep.expected
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedSleep.expected
+END
+TestDispatch.expected
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestDispatch.expected
+END
+TestInterruptedSleep2.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestInterruptedSleep2.java
+END
+TestParallelHardwareTrap.expected
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/jikesrvm/!svn/ver/12652/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestParallelHardwareTrap.expected
+END
+TestVolatiles.expected
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestVolatiles.expected
+END
+TestStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestStop.java
+END
+TestShutdownHookAfterExit.expected
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/jikesrvm/!svn/ver/13141/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads/TestShutdownHookAfterExit.expected
+END

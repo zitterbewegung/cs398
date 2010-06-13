@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics
+END
+BooleanCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/BooleanCounter.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Counter.java
+END
+LongCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/LongCounter.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Timer.java
+END
+Xml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Xml.java
+END
+EventCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/EventCounter.java
+END
+SizeCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/SizeCounter.java
+END
+PerfCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/PerfCounter.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Stats.java
+END

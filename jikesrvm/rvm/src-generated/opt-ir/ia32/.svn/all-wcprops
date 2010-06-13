@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ia32
+END
+InstructionFormatList.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ia32/InstructionFormatList.dat
+END
+OperatorList.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-ir/ia32/OperatorList.dat
+END

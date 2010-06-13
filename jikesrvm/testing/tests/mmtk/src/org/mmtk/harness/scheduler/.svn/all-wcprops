@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler
+END
+JavaSchedulerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler/JavaSchedulerTest.java
+END
+DeterministicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler/DeterministicTests.java
+END
+DeterministicTests2.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler/DeterministicTests2.java
+END
+TestMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler/TestMutator.java
+END
+SchedulerTestCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/scheduler/SchedulerTestCases.java
+END

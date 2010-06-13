@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjbb2005
+END
+SPECjbb_config.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2005/SPECjbb_config.props
+END
+SPECjbb.sanity.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2005/SPECjbb.sanity.props
+END
+SPECjbb.props
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2005/SPECjbb.props
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjbb2005/build.xml
+END

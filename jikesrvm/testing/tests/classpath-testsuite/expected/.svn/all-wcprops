@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected
+END
+BooleanTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/BooleanTest.expected
+END
+FloatingDecimalTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/FloatingDecimalTest.expected
+END
+NullcastTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/NullcastTest.expected
+END
+SocketTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/SocketTest.expected
+END
+DatagramSocketTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/DatagramSocketTest.expected
+END
+CastTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/CastTest.expected
+END
+MessageFormatTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/MessageFormatTest.expected
+END
+ExceptionTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/ExceptionTest.expected
+END
+OutOfMemoryErrorTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/OutOfMemoryErrorTest.expected
+END
+JoinTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/JoinTest.expected
+END
+SimpleDateFormatTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/SimpleDateFormatTest.expected
+END
+RandomAccessFileTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/RandomAccessFileTest.expected
+END
+URLTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/URLTest.expected
+END
+LongFieldTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/LongFieldTest.expected
+END
+SimpleTimeZoneTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/SimpleTimeZoneTest.expected
+END
+SocketSendReceiveTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/SocketSendReceiveTest.expected
+END
+StringTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/StringTest.expected
+END
+SyncronizedTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/SyncronizedTest.expected
+END
+ThreadTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/ThreadTest.expected
+END
+ClassForNameTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/ClassForNameTest.expected
+END
+NewInstanceTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/NewInstanceTest.expected
+END
+ArrayTest.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/14076/rvmroot/trunk/testing/tests/classpath-testsuite/expected/ArrayTest.expected
+END

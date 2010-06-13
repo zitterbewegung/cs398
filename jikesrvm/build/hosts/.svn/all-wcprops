@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/jikesrvm/!svn/ver/15779/rvmroot/trunk/build/hosts
+END
+ppc32-linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ppc32-linux.properties
+END
+ia32-osx.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15779/rvmroot/trunk/build/hosts/ia32-osx.properties
+END
+ppc32-aix.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ppc32-aix.properties
+END
+ia32-solaris.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ia32-solaris.properties
+END
+ppc64-linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ppc64-linux.properties
+END
+ia32-linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ia32-linux.properties
+END
+ppc64-aix.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ppc64-aix.properties
+END
+x86_64-linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15765/rvmroot/trunk/build/hosts/x86_64-linux.properties
+END
+ia32-cygwin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ia32-cygwin.properties
+END
+ppc32-osx.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/hosts/ppc32-osx.properties
+END
+x86_64_m64-linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15765/rvmroot/trunk/build/hosts/x86_64_m64-linux.properties
+END

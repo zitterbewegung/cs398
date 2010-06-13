@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/operand/ppc
+END
+PowerPCConditionOperand.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/operand/ppc/PowerPCConditionOperand.java
+END
+PowerPCTrapOperand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/ir/operand/ppc/PowerPCTrapOperand.java
+END

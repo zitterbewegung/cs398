@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading
+END
+TestLoadingWithoutName.expected
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestLoadingWithoutName.expected
+END
+TestLoadingWithoutName.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestLoadingWithoutName.java
+END
+TestClassLoading.expected
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestClassLoading.expected
+END
+TestClassLoading.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestClassLoading.java
+END
+TestUTF8.expected
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestUTF8.expected
+END
+TestUTF8.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/classloading/TestUTF8.java
+END

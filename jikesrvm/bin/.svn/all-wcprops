@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/jikesrvm/!svn/ver/15849/rvmroot/trunk/bin
+END
+license-check.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/license-check.rb
+END
+headerExceptionsFilter.awk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/headerExceptionsFilter.awk
+END
+extractmmtkstats
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/extractmmtkstats
+END
+unit-test-mmtk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jikesrvm/!svn/ver/15036/rvmroot/trunk/bin/unit-test-mmtk
+END
+extractcompilerstats
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/extractcompilerstats
+END
+test-mmtk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/bin/test-mmtk
+END
+findDeviantFiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/findDeviantFiles.sh
+END
+timedrun
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/timedrun
+END
+buildit.base_config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jikesrvm/!svn/ver/15849/rvmroot/trunk/bin/buildit.base_config
+END
+test-mmtk-selected
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jikesrvm/!svn/ver/15743/rvmroot/trunk/bin/test-mmtk-selected
+END
+buildit
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/jikesrvm/!svn/ver/15848/rvmroot/trunk/bin/buildit
+END
+normalizeSVNProperties.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/normalizeSVNProperties.sh
+END

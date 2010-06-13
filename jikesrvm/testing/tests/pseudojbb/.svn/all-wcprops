@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/pseudojbb
+END
+pseudojbb_config.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/pseudojbb/pseudojbb_config.props
+END
+pseudojbb.sanity.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/pseudojbb/pseudojbb.sanity.props
+END
+pseudojbb.perf.props
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/pseudojbb/pseudojbb.perf.props
+END

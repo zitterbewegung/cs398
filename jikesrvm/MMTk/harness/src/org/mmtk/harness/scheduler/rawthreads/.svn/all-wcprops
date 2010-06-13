@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15851/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads
+END
+RawThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/RawThread.java
+END
+RawLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/RawLock.java
+END
+RawThreadModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/RawThreadModel.java
+END
+CollectorContextThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/CollectorContextThread.java
+END
+MutatorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/MutatorThread.java
+END
+CollectorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jikesrvm/!svn/ver/15851/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/rawthreads/CollectorThread.java
+END

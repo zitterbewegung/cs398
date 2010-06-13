@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount
+END
+RCBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCBase.java
+END
+RCZero.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCZero.java
+END
+RCBaseCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCBaseCollector.java
+END
+RCBaseConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCBaseConstraints.java
+END
+RCDecBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCDecBuffer.java
+END
+RCBaseMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCBaseMutator.java
+END
+RCHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/RCHeader.java
+END

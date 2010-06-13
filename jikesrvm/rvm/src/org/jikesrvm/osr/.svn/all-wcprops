@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/rvm/src/org/jikesrvm/osr
+END
+VariableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/VariableElement.java
+END
+OSRConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/OSRConstants.java
+END
+ExecutionStateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ExecutionStateExtractor.java
+END
+ObjectHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ObjectHolder.java
+END
+LocalRegPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/LocalRegPair.java
+END
+ExecutionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/ExecutionState.java
+END
+OSRProfiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/OSRProfiler.java
+END
+TypeStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/TypeStack.java
+END
+MethodVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/MethodVariables.java
+END
+SpecialCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/SpecialCompiler.java
+END
+OSRMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/OSRMapIterator.java
+END
+AdjustBCIndexes.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/AdjustBCIndexes.java
+END
+EncodedOSRMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/EncodedOSRMap.java
+END
+VariableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/VariableMap.java
+END
+BytecodeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/BytecodeTraverser.java
+END
+VariableMapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/osr/VariableMapElement.java
+END

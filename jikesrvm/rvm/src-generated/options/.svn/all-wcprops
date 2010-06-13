@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src-generated/options
+END
+ValueOptions.vm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15690/rvmroot/trunk/rvm/src-generated/options/ValueOptions.vm.dat
+END
+ValueOptions.baseline.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/ValueOptions.baseline.dat
+END
+ValueOptions.aos.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/ValueOptions.aos.dat
+END
+MasterOptions.template
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/MasterOptions.template
+END
+BooleanOptions.vm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/BooleanOptions.vm.dat
+END
+BooleanOptions.baseline.dat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/BooleanOptions.baseline.dat
+END
+BooleanOptions.aos.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/BooleanOptions.aos.dat
+END
+SharedValueOptions.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src-generated/options/SharedValueOptions.dat
+END
+OptOptions.template
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/OptOptions.template
+END
+SharedBooleanOptions.dat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src-generated/options/SharedBooleanOptions.dat
+END
+ValueOptions.opt.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/ValueOptions.opt.dat
+END
+BooleanOptions.opt.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src-generated/options/BooleanOptions.opt.dat
+END
+Options.template
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15687/rvmroot/trunk/rvm/src-generated/options/Options.template
+END
+BaselineOptions.template
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/BaselineOptions.template
+END
+AOSOptions.template
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/options/AOSOptions.template
+END

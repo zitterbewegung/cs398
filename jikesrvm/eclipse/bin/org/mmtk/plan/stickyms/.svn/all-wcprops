@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15829/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms
+END
+StickyMSMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms/StickyMSMutator.java
+END
+StickyMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15829/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms/StickyMS.java
+END
+StickyMSNurseryTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms/StickyMSNurseryTraceLocal.java
+END
+StickyMSCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms/StickyMSCollector.java
+END
+StickyMSConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyms/StickyMSConstraints.java
+END

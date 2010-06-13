@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15770/rvmroot/trunk/rvm/src/org/jikesrvm/jni
+END
+JNIGenericHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/JNIGenericHelpers.java
+END
+JNIEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15770/rvmroot/trunk/rvm/src/org/jikesrvm/jni/JNIEnvironment.java
+END
+JNIGlobalRefTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/JNIGlobalRefTable.java
+END
+LinkageTripletTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/LinkageTripletTable.java
+END
+JNIFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15712/rvmroot/trunk/rvm/src/org/jikesrvm/jni/JNIFunctions.java
+END
+FunctionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/FunctionTable.java
+END
+JNICompiledMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/jni/JNICompiledMethod.java
+END

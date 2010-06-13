@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15683/rvmroot/trunk/rvm/src-generated/opt-burs/ia32
+END
+IA32_SSE2.rules
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ia32/IA32_SSE2.rules
+END
+IA32.rules
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15683/rvmroot/trunk/rvm/src-generated/opt-burs/ia32/IA32.rules
+END
+IA32_x87.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ia32/IA32_x87.rules
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15802/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang
+END
+VMClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMClassLoader.java
+END
+VMRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMRuntime.java
+END
+JikesRVMSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/JikesRVMSupport.java
+END
+VMSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15802/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMSystem.java
+END
+VMFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMFloat.java
+END
+VMString.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMString.java
+END
+VMThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMThread.java
+END
+VMThrowable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMThrowable.java
+END
+VMMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMMath.java
+END
+JikesRVMHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/JikesRVMHelpers.java
+END
+VMDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/libraryInterface/GNUClasspath/EPL/src/java/lang/VMDouble.java
+END

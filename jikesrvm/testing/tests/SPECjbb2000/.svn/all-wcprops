@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjbb2000
+END
+SPECjbb_config.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb_config.props
+END
+SPECjbb.sanity.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb.sanity.props
+END
+SPECjbb_4.4.4.props
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/11545/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb_4.4.4.props
+END
+SPECjbb.night.props
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb.night.props
+END
+SPECjbb.perf.props
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/12173/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb.perf.props
+END
+SPECjbb_1.1.1.props
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/11545/rvmroot/trunk/testing/tests/SPECjbb2000/SPECjbb_1.1.1.props
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjbb2000/build.xml
+END

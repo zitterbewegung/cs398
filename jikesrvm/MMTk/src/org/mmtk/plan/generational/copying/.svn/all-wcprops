@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying
+END
+GenCopyMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15715/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying/GenCopyMutator.java
+END
+GenCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying/GenCopy.java
+END
+GenCopyCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying/GenCopyCollector.java
+END
+GenCopyConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying/GenCopyConstraints.java
+END
+GenCopyMatureTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/copying/GenCopyMatureTraceLocal.java
+END

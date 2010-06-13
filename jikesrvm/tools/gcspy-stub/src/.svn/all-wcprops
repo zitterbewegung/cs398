@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src
+END
+gcspy_gc_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_gc_driver.h
+END
+gcspy_gc_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_gc_stream.h
+END
+gcspy_main_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_main_server.c
+END
+gcspy_command_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_command_stream.h
+END
+gcspy_main_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_main_server.h
+END
+gcspy_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_utils.h
+END
+gcspy_buffered_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_buffered_output.h
+END
+gcspy_color_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_color_db.h
+END
+gcspy_interpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/gcspy-stub/src/gcspy_interpreter.h
+END

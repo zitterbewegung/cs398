@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util
+END
+LinkedListIteratorRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/LinkedListIteratorRVM.java
+END
+BitVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/BitVector.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/StringUtilities.java
+END
+ImmutableEntryIdentityHashMapRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/ImmutableEntryIdentityHashMapRVM.java
+END
+ImmutableEntryHashSetRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/ImmutableEntryHashSetRVM.java
+END
+HashMapRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/HashMapRVM.java
+END
+EmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/EmptyIterator.java
+END
+AbstractHashSetRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/AbstractHashSetRVM.java
+END
+PriorityQueueRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/PriorityQueueRVM.java
+END
+IdentityHashMapRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/IdentityHashMapRVM.java
+END
+AddressInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/AddressInputStream.java
+END
+HashSetRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/HashSetRVM.java
+END
+LinkedListRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/LinkedListRVM.java
+END
+ImmutableEntryHashMapRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/ImmutableEntryHashMapRVM.java
+END
+AbstractHashMapRVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/AbstractHashMapRVM.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/util/Pair.java
+END

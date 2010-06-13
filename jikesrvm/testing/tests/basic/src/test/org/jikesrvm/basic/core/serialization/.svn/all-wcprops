@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/serialization
+END
+SerializationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/serialization/SerializationData.java
+END
+TestSerialization.expected
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/serialization/TestSerialization.expected
+END
+TestSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/serialization/TestSerialization.java
+END
+SerializationData.dat
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/jikesrvm/!svn/ver/11305/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/serialization/SerializationData.dat
+END

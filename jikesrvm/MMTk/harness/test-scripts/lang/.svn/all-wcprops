@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15746/rvmroot/trunk/MMTk/harness/test-scripts/lang
+END
+expr.script
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/expr.script
+END
+if-then-else.script
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/if-then-else.script
+END
+getfield.script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/getfield.script
+END
+assign.script
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/assign.script
+END
+weakref.script
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/weakref.script
+END
+const.script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/const.script
+END
+recursive1.script
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/recursive1.script
+END
+recursive2.script
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/recursive2.script
+END
+alloc.script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/alloc.script
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/14593/rvmroot/trunk/MMTk/harness/test-scripts/lang/README
+END
+assert.script
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/assert.script
+END
+intrinsic.script
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/intrinsic.script
+END
+if-then-else2.script
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/if-then-else2.script
+END
+type1.script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/type1.script
+END
+phantomref.script
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/test-scripts/lang/phantomref.script
+END
+fields.script
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/fields.script
+END
+softref.script
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/softref.script
+END
+while.script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/while.script
+END
+barriers.script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15746/rvmroot/trunk/MMTk/harness/test-scripts/lang/barriers.script
+END
+list.script
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/list.script
+END
+call.script
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15740/rvmroot/trunk/MMTk/harness/test-scripts/lang/call.script
+END

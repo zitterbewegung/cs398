@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler
+END
+LightMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15676/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/LightMonitor.java
+END
+Synchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/Synchronization.java
+END
+SpinLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/SpinLock.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15677/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/Monitor.java
+END
+SoftLatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/SoftLatch.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15687/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/Lock.java
+END
+NoYieldpointsMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/NoYieldpointsMonitor.java
+END
+TimerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15773/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/TimerThread.java
+END
+FinalizerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/FinalizerThread.java
+END
+Latch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/Latch.java
+END
+ThinLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15698/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/ThinLock.java
+END
+MainThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15701/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/MainThread.java
+END
+RVMThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15773/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/RVMThread.java
+END
+ThreadQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/ThreadQueue.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common
+END
+CompiledMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/CompiledMethods.java
+END
+RecompilationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/RecompilationManager.java
+END
+BootImageCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/BootImageCompiler.java
+END
+HardwareTrapCompiledMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/HardwareTrapCompiledMethod.java
+END
+ExceptionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/ExceptionTable.java
+END
+HardwareTrapGCMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/HardwareTrapGCMapIterator.java
+END
+CompiledMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15668/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/CompiledMethod.java
+END
+RuntimeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15764/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/common/RuntimeCompiler.java
+END

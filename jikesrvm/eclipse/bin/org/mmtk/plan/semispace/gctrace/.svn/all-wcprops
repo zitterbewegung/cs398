@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace
+END
+GCTraceCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace/GCTraceCollector.java
+END
+GCTraceConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace/GCTraceConstraints.java
+END
+GCTraceTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace/GCTraceTraceLocal.java
+END
+GCTraceMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace/GCTraceMutator.java
+END
+GCTrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/semispace/gctrace/GCTrace.java
+END

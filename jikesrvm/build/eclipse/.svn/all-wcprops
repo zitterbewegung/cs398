@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/jikesrvm/!svn/ver/15776/rvmroot/trunk/build/eclipse
+END
+project.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/eclipse/project.template
+END
+classpath.harmony.template
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15776/rvmroot/trunk/build/eclipse/classpath.harmony.template
+END
+mmtk-harness-classpath
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15723/rvmroot/trunk/build/eclipse/mmtk-harness-classpath
+END
+classpath.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15674/rvmroot/trunk/build/eclipse/classpath.template
+END
+mmtk-harness-project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/14483/rvmroot/trunk/build/eclipse/mmtk-harness-project
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/ppc
+END
+AixLinkageLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/ppc/AixLinkageLayout.h
+END
+initBootRecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/ppc/initBootRecord.c
+END
+libvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/ppc/libvm.c
+END
+bootThread.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/ppc/bootThread.c
+END

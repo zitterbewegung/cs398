@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/sanity
+END
+HeapEntryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/sanity/HeapEntryTest.java
+END
+HeapSnapshotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15749/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/harness/sanity/HeapSnapshotTest.java
+END

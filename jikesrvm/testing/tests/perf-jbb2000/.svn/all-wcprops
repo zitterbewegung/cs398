@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/perf-jbb2000
+END
+SPECjbb_config.props
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/13408/rvmroot/trunk/testing/tests/perf-jbb2000/SPECjbb_config.props
+END
+SPECjbb_4.4.4.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/13408/rvmroot/trunk/testing/tests/perf-jbb2000/SPECjbb_4.4.4.props
+END
+SPECjbb.perf.props
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/13408/rvmroot/trunk/testing/tests/perf-jbb2000/SPECjbb.perf.props
+END
+SPECjbb_1.1.1.props
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/13408/rvmroot/trunk/testing/tests/perf-jbb2000/SPECjbb_1.1.1.props
+END
+jbb2000.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/perf-jbb2000/jbb2000.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/perf-jbb2000/build.xml
+END

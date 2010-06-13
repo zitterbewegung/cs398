@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15851/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/Policy.java
+END
+MMTkThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/MMTkThread.java
+END
+YieldEvery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/YieldEvery.java
+END
+AbstractPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/AbstractPolicy.java
+END
+YieldNever.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/YieldNever.java
+END
+YieldAlways.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/YieldAlways.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/Lock.java
+END
+ThreadModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15746/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/ThreadModel.java
+END
+Schedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/Schedulable.java
+END
+YieldRandomly.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/YieldRandomly.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15741/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/scheduler/Scheduler.java
+END

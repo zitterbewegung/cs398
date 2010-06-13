@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/ant-tasks/src/org/jikesrvm/tools/template
+END
+QuotedStringTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/ant-tasks/src/org/jikesrvm/tools/template/QuotedStringTokenizer.java
+END
+UnterminatedStringException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/ant-tasks/src/org/jikesrvm/tools/template/UnterminatedStringException.java
+END
+GenerateFromTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/ant-tasks/src/org/jikesrvm/tools/template/GenerateFromTemplate.java
+END

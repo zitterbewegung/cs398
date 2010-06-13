@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-scheduler/ia32
+END
+OperatorClassList.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-scheduler/ia32/OperatorClassList.dat
+END
+ResourceList.dat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-scheduler/ia32/ResourceList.dat
+END

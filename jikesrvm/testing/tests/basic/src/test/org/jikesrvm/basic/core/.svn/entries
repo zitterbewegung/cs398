@@ -1,0 +1,49 @@
+10
+
+dir
+15857
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core
+https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
+
+
+
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dce3f540-011b-0410-8642-b5df2b1aa704
+
+classloading
+dir
+
+reflect
+dir
+
+instrument
+dir
+
+annotation
+dir
+
+threads
+dir
+
+serialization
+dir
+
+bytecode
+dir
+

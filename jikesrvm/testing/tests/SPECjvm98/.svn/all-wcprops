@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98
+END
+parseSPECmark
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/parseSPECmark
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/run.bash
+END
+specmark.reference
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/specmark.reference
+END
+parse_spec
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/parse_spec
+END
+parse_spec_min
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/parse_spec_min
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/SPECjvm98/build.xml
+END

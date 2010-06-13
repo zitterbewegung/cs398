@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15794/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational
+END
+GenCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/GenCollector.java
+END
+GenConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15794/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/GenConstraints.java
+END
+GenMatureTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/GenMatureTraceLocal.java
+END
+GenMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15794/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/GenMutator.java
+END
+Gen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/Gen.java
+END
+GenNurseryTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/generational/GenNurseryTraceLocal.java
+END

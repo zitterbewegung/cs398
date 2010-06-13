@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/ia32-assembler
+END
+genAssembler.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/ia32-assembler/genAssembler.sh
+END
+Assembler.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/ia32-assembler/Assembler.in
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix
+END
+StickyImmixCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix/StickyImmixCollector.java
+END
+StickyImmixConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix/StickyImmixConstraints.java
+END
+StickyImmixMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15782/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix/StickyImmixMutator.java
+END
+StickyImmix.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix/StickyImmix.java
+END
+StickyImmixNurseryTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/stickyimmix/StickyImmixNurseryTraceLocal.java
+END

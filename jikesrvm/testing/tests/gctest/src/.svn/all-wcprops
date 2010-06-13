@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src
+END
+FixedLive.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/FixedLive.java
+END
+Exhaust.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/Exhaust.java
+END
+ReferenceStress.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/ReferenceStress.java
+END
+Node2I2A.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/Node2I2A.java
+END
+InlineAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/InlineAllocation.java
+END
+LargeAlloc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/LargeAlloc.java
+END
+ReferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/gctest/src/ReferenceTest.java
+END

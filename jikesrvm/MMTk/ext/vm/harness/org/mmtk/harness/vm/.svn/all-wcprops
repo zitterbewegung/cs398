@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jikesrvm/!svn/ver/15842/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm
+END
+Scanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15841/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Scanning.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15842/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Assert.java
+END
+BuildTimeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/BuildTimeConfig.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Factory.java
+END
+Memory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Memory.java
+END
+Barriers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Barriers.java
+END
+SynchronizedCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/SynchronizedCounter.java
+END
+FinalizableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/FinalizableProcessor.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Debug.java
+END
+ActivePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/ActivePlan.java
+END
+ObjectModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15841/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/ObjectModel.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Strings.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Statistics.java
+END
+Collection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/Collection.java
+END
+MMTkEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/MMTkEvents.java
+END
+ReferenceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/ext/vm/harness/org/mmtk/harness/vm/ReferenceProcessor.java
+END

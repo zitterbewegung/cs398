@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jikesrvm/!svn/ver/15788/rvmroot/trunk/rvm/src-generated/opt-burs/ppc
+END
+PPC_Alu32.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ppc/PPC_Alu32.rules
+END
+PPC_Common.rules
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15788/rvmroot/trunk/rvm/src-generated/opt-burs/ppc/PPC_Common.rules
+END
+PPC_Mem64.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ppc/PPC_Mem64.rules
+END
+PPC_Alu64.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ppc/PPC_Alu64.rules
+END
+PPC_Mem32.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15667/rvmroot/trunk/rvm/src-generated/opt-burs/ppc/PPC_Mem32.rules
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/build
+END
+tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/jikesrvm/!svn/ver/15767/rvmroot/trunk/build/tests.xml
+END
+results2report.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/results2report.xsl
+END
+tasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/tasks.xml
+END
+base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/base.xml
+END

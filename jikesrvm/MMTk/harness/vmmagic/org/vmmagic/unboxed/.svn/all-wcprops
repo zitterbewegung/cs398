@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed
+END
+AddressArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/AddressArray.java
+END
+ObjectReferenceArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/ObjectReferenceArray.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/Address.java
+END
+ObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/ObjectReference.java
+END
+OffsetArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/OffsetArray.java
+END
+ExtentArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/ExtentArray.java
+END
+Offset.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/Offset.java
+END
+Extent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/Extent.java
+END
+WordArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/WordArray.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jikesrvm/!svn/ver/15754/rvmroot/trunk/MMTk/harness/vmmagic/org/vmmagic/unboxed/Word.java
+END

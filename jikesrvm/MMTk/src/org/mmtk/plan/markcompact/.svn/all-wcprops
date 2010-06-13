@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact
+END
+MC.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MC.java
+END
+MCMarkTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MCMarkTraceLocal.java
+END
+MCCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MCCollector.java
+END
+MCConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15804/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MCConstraints.java
+END
+MCMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MCMutator.java
+END
+MCForwardTraceLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/markcompact/MCForwardTraceLocal.java
+END

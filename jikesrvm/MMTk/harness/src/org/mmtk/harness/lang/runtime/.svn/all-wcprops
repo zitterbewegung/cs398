@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime
+END
+StackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/StackFrame.java
+END
+PhantomReferenceValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/PhantomReferenceValue.java
+END
+ConstantPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/ConstantPool.java
+END
+ObjectValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/ObjectValue.java
+END
+StringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/StringValue.java
+END
+WeakReferenceValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/WeakReferenceValue.java
+END
+IntValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/IntValue.java
+END
+NullValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/NullValue.java
+END
+SoftReferenceValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/SoftReferenceValue.java
+END
+BoolValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/BoolValue.java
+END
+AllocationSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/AllocationSite.java
+END
+ReferenceValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/ReferenceValue.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/jikesrvm/!svn/ver/15732/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/Value.java
+END
+PcodeInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/lang/runtime/PcodeInterpreter.java
+END

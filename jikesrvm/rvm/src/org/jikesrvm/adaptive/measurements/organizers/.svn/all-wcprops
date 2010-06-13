@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers
+END
+AccumulatingMethodSampleOrganizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers/AccumulatingMethodSampleOrganizer.java
+END
+Organizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers/Organizer.java
+END
+DynamicCallGraphOrganizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers/DynamicCallGraphOrganizer.java
+END
+MethodSampleOrganizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers/MethodSampleOrganizer.java
+END
+DecayOrganizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/adaptive/measurements/organizers/DecayOrganizer.java
+END

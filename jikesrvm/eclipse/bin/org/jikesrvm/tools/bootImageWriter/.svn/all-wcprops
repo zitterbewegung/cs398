@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter
+END
+BootImageObjectAddressRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageObjectAddressRemapper.java
+END
+BootImageWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageWorker.java
+END
+BootImageWriterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageWriterConstants.java
+END
+BootImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageWriter.java
+END
+BootImageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageMap.java
+END
+BootImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImage.java
+END
+BootImageWriterMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BootImageWriterMessages.java
+END
+BuildJNIFunctionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageWriter/src/org/jikesrvm/tools/bootImageWriter/BuildJNIFunctionTable.java
+END
