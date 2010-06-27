@@ -1,6 +1,6 @@
 package org.jikesrvm;
 import java.rmi.RemoteException;
-import java.rmi.registry.LocateRegistry
+import java.rmi.registry.LocateRegistry;
 import org.jikesrvm.classloader.ClassLoader; // FILL ME IN
 import org.jikesrvm.classloader.ClassFileReader;
 import java.util.PriorityQueue;
