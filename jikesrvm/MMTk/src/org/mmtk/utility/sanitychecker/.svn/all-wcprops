@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/sanitychecker
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/utility/sanitychecker
 END
 SanityTraceLocal.java
 K 25
@@ -13,7 +13,7 @@ SanityRootTraceLocal.java
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/sanitychecker/SanityRootTraceLocal.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/utility/sanitychecker/SanityRootTraceLocal.java
 END
 SanityCheckerLocal.java
 K 25

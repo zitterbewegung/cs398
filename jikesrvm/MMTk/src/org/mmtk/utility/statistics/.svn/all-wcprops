@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics
 END
 BooleanCounter.java
 K 25
@@ -13,7 +13,7 @@ Counter.java
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Counter.java
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Counter.java
 END
 LongCounter.java
 K 25
@@ -45,15 +45,15 @@ svn:wc:ra_dav:version-url
 V 100
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/SizeCounter.java
 END
-PerfCounter.java
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/PerfCounter.java
-END
 Stats.java
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Stats.java
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/Stats.java
+END
+PerfEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/utility/statistics/PerfEvent.java
 END

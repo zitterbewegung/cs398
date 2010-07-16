@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/jni/src
 END
 TestDeadVPQueueWorker.c
 K 25
@@ -15,29 +15,29 @@ svn:wc:ra_dav:version-url
 V 79
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GT3.java
 END
-FieldAccess.java
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.java
-END
 NativeException.java
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NativeException.java
 END
-FieldAccess.c
+FieldAccess.java
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.c
+V 85
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.java
 END
 NativeException.c
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NativeException.c
+END
+FieldAccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/FieldAccess.c
 END
 tNative.java
 K 25
@@ -213,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 80
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Worker.java
 END
-ClassQuerySuper.java
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuerySuper.java
-END
 MethodInvocation.java
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MethodInvocation.java
+END
+ClassQuerySuper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuerySuper.java
 END
 StringRegion.c
 K 25
@@ -243,23 +243,11 @@ svn:wc:ra_dav:version-url
 V 86
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/NullIdentity.java
 END
-TestRuntimeExec.java
+MonitorTest.c
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestRuntimeExec.java
-END
-TestProcessDestroy.java
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestProcessDestroy.java
-END
-GetEnv.java
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/GetEnv.java
+V 82
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MonitorTest.c
 END
 Mangled_Name_s_.java
 K 25
@@ -267,11 +255,23 @@ svn:wc:ra_dav:version-url
 V 89
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/Mangled_Name_s_.java
 END
-MonitorTest.c
+GetEnv.java
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/MonitorTest.c
+V 80
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/GetEnv.java
+END
+TestProcessDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestProcessDestroy.java
+END
+TestRuntimeExec.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestRuntimeExec.java
 END
 ClassQuery.java
 K 25
@@ -279,17 +279,17 @@ svn:wc:ra_dav:version-url
 V 84
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ClassQuery.java
 END
+TestNestedGC.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.c
+END
 t3GTWorker2.java
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GTWorker2.java
-END
-TestNestedGC.c
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.c
 END
 StringFunctions.java
 K 25
@@ -309,11 +309,11 @@ svn:wc:ra_dav:version-url
 V 76
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/t3GT3.c
 END
-TestDeadVPQueue.java
+ArgumentPassing.c
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestDeadVPQueue.java
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArgumentPassing.c
 END
 ArrayFunctions.c
 K 25
@@ -321,11 +321,11 @@ svn:wc:ra_dav:version-url
 V 85
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArrayFunctions.c
 END
-ArgumentPassing.c
+TestDeadVPQueue.java
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/ArgumentPassing.c
+V 89
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/TestDeadVPQueue.java
 END
 MethodInvocation.c
 K 25
@@ -351,29 +351,29 @@ svn:wc:ra_dav:version-url
 V 79
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/JNI12.java
 END
-CriticalCopy.java
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.java
-END
 tNativeThreads.java
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNativeThreads.java
 END
-CriticalCopy.c
+CriticalCopy.java
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.c
+V 86
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.java
 END
 tNativeThreads.c
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/tNativeThreads.c
+END
+CriticalCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/jni/src/CriticalCopy.c
 END
 StackResize.java
 K 25
@@ -403,7 +403,7 @@ TestNestedGC.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/jikesrvm/!svn/ver/15769/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/jni/src/TestNestedGC.java
 END
 BlockingThreadsWorker.java
 K 25

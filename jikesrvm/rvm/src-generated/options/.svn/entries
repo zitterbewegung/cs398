@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/rvm/src-generated/options
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -25,74 +25,6 @@ steveb-oss
 
 
 dce3f540-011b-0410-8642-b5df2b1aa704
-
-ValueOptions.vm.dat
-file
-
-
-
-
-2010-06-13T19:39:26.000000Z
-20794e09360c6b2fe3fb9b0c0a445d47
-2009-05-13T23:05:16.253006Z
-15690
-steveb-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2268
-
-ValueOptions.baseline.dat
-file
-
-
-
-
-2010-06-13T19:39:26.000000Z
-2ac3122acda1ac4f0d05ea842c14f3fd
-2009-04-24T15:19:32.248257Z
-15667
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-760
 
 ValueOptions.aos.dat
 file
@@ -128,6 +60,74 @@ has-props
 
 3198
 
+ValueOptions.baseline.dat
+file
+
+
+
+
+2010-06-13T19:39:26.000000Z
+2ac3122acda1ac4f0d05ea842c14f3fd
+2009-04-24T15:19:32.248257Z
+15667
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+760
+
+ValueOptions.vm.dat
+file
+
+
+
+
+2010-06-13T19:39:26.000000Z
+20794e09360c6b2fe3fb9b0c0a445d47
+2009-05-13T23:05:16.253006Z
+15690
+steveb-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2268
+
 MasterOptions.template
 file
 
@@ -162,14 +162,14 @@ has-props
 
 16116
 
-BooleanOptions.vm.dat
+BooleanOptions.aos.dat
 file
 
 
 
 
 2010-06-13T19:39:26.000000Z
-c6161002ed1c9084a7679a568120d145
+93a9e602f996916534c6d2bc0a705e05
 2009-04-24T15:19:32.248257Z
 15667
 dgrove-oss
@@ -194,7 +194,7 @@ has-props
 
 
 
-1222
+2098
 
 BooleanOptions.baseline.dat
 file
@@ -230,14 +230,14 @@ has-props
 
 848
 
-BooleanOptions.aos.dat
+BooleanOptions.vm.dat
 file
 
 
 
 
 2010-06-13T19:39:26.000000Z
-93a9e602f996916534c6d2bc0a705e05
+c6161002ed1c9084a7679a568120d145
 2009-04-24T15:19:32.248257Z
 15667
 dgrove-oss
@@ -262,7 +262,7 @@ has-props
 
 
 
-2098
+1222
 
 SharedValueOptions.dat
 file
@@ -468,40 +468,6 @@ has-props
 
 10092
 
-BaselineOptions.template
-file
-
-
-
-
-2010-06-13T19:39:26.000000Z
-da85578ced6e2f409a6dac600d5478ad
-2009-04-24T15:19:32.248257Z
-15667
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1748
-
 AOSOptions.template
 file
 
@@ -535,4 +501,38 @@ has-props
 
 
 1787
+
+BaselineOptions.template
+file
+
+
+
+
+2010-06-13T19:39:26.000000Z
+da85578ced6e2f409a6dac600d5478ad
+2009-04-24T15:19:32.248257Z
+15667
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1748
 

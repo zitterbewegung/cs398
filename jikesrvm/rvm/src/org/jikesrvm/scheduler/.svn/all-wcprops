@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler
 END
 LightMonitor.java
 K 25
 svn:wc:ra_dav:version-url
 V 95
-/svnroot/jikesrvm/!svn/ver/15676/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/LightMonitor.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/rvm/src/org/jikesrvm/scheduler/LightMonitor.java
 END
 Synchronization.java
 K 25

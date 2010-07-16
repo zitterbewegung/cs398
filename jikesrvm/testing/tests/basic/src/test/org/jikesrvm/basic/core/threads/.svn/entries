@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/threads
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -536,40 +536,6 @@ has-props
 
 1279
 
-TestDispatch.java
-file
-
-
-
-
-2010-06-13T19:39:58.000000Z
-037063b7ad005e33e935133a2e0d8ef1
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1489
-
 XThread.java
 file
 
@@ -604,17 +570,18 @@ has-props
 
 3541
 
-TestSuspend.expected
+TestDispatch.java
 file
 
 
 
 
 2010-06-13T19:39:58.000000Z
-3bf6f76d844e0734b758f6ce0b7dabd1
-2007-07-22T06:46:31.173105Z
-13134
-peter_donald
+037063b7ad005e33e935133a2e0d8ef1
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
 
 
 
@@ -635,8 +602,7 @@ peter_donald
 
 
 
-
-226
+1489
 
 TestParallelHardwareTrap.java
 file
@@ -672,18 +638,17 @@ has-props
 
 1428
 
-Task.java
+TestSuspend.expected
 file
 
 
 
 
 2010-06-13T19:39:58.000000Z
-93d6ebe01d918ffaa0ed263e14a78e99
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
+3bf6f76d844e0734b758f6ce0b7dabd1
+2007-07-22T06:46:31.173105Z
+13134
+peter_donald
 
 
 
@@ -704,7 +669,8 @@ has-props
 
 
 
-972
+
+226
 
 TestVolatiles.java
 file
@@ -739,6 +705,40 @@ has-props
 
 
 1176
+
+Task.java
+file
+
+
+
+
+2010-06-13T19:39:58.000000Z
+93d6ebe01d918ffaa0ed263e14a78e99
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+972
 
 TestNotification.expected
 file

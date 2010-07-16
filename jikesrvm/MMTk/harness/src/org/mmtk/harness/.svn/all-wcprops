@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/jikesrvm/!svn/ver/15851/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness
 END
 Harness.java
 K 25
@@ -37,5 +37,5 @@ TimeoutThread.java
 K 25
 svn:wc:ra_dav:version-url
 V 99
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/TimeoutThread.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/harness/src/org/mmtk/harness/TimeoutThread.java
 END

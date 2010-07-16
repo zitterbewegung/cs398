@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/MMTk/harness/test-scripts/lang
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -128,40 +128,6 @@ rgarner
 
 780
 
-assign.script
-file
-
-
-
-
-2010-06-13T19:39:48.000000Z
-f1efbd7d6b9c340cee189bfcf51417a6
-2009-07-23T07:27:01.669214Z
-15740
-rgarner
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-568
-
 weakref.script
 file
 
@@ -195,6 +161,40 @@ rgarner
 
 
 1247
+
+assign.script
+file
+
+
+
+
+2010-06-13T19:39:48.000000Z
+f1efbd7d6b9c340cee189bfcf51417a6
+2009-07-23T07:27:01.669214Z
+15740
+rgarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+568
 
 const.script
 file
@@ -298,40 +298,6 @@ rgarner
 
 1874
 
-alloc.script
-file
-
-
-
-
-2010-06-13T19:39:48.000000Z
-0c0d327e2575822f0d6f598eb6ea0294
-2009-07-23T07:27:01.669214Z
-15740
-rgarner
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-535
-
 README
 file
 
@@ -365,6 +331,40 @@ rgarner
 
 
 70
+
+alloc.script
+file
+
+
+
+
+2010-06-13T19:39:48.000000Z
+0c0d327e2575822f0d6f598eb6ea0294
+2009-07-23T07:27:01.669214Z
+15740
+rgarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+535
 
 assert.script
 file
@@ -400,14 +400,14 @@ rgarner
 
 572
 
-intrinsic.script
+type1.script
 file
 
 
 
 
 2010-06-13T19:39:48.000000Z
-973ef1b576bef12718cede0491d12c1d
+c629a1c4e8089a6628ad5a9939ce1c93
 2009-07-23T07:27:01.669214Z
 15740
 rgarner
@@ -432,7 +432,7 @@ rgarner
 
 
 
-769
+606
 
 if-then-else2.script
 file
@@ -468,14 +468,14 @@ rgarner
 
 634
 
-type1.script
+intrinsic.script
 file
 
 
 
 
 2010-06-13T19:39:48.000000Z
-c629a1c4e8089a6628ad5a9939ce1c93
+973ef1b576bef12718cede0491d12c1d
 2009-07-23T07:27:01.669214Z
 15740
 rgarner
@@ -500,7 +500,7 @@ rgarner
 
 
 
-606
+769
 
 phantomref.script
 file

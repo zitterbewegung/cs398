@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/build/configs
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/build/configs
 END
 FullAdaptiveRefCount.properties
 K 25
@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 86
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/config.properties.example
 END
-FastBaseAdaptiveGenMS.properties
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastBaseAdaptiveGenMS.properties
-END
 FastAdaptiveGenCopy.properties
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveGenCopy.properties
+END
+FastBaseAdaptiveGenMS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastBaseAdaptiveGenMS.properties
 END
 FastBaseAdaptiveCopyMS.properties
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 85
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseImmix.properties
 END
+config.properties.defaults
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/build/configs/config.properties.defaults
+END
 FullAdaptiveCopyMS.properties
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveCopyMS.properties
-END
-config.properties.defaults
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/config.properties.defaults
 END
 BaseAdaptiveGenMS.properties
 K 25
@@ -195,11 +195,11 @@ svn:wc:ra_dav:version-url
 V 95
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveStickyImmix.properties
 END
-ExtremeAssertionsFullAdaptiveCopyMS.properties
+production_Base.properties
 K 25
 svn:wc:ra_dav:version-url
-V 107
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/ExtremeAssertionsFullAdaptiveCopyMS.properties
+V 87
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/production_Base.properties
 END
 FullAdaptiveSemiSpaceGCSpy.properties
 K 25
@@ -207,11 +207,11 @@ svn:wc:ra_dav:version-url
 V 98
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveSemiSpaceGCSpy.properties
 END
-production_Base.properties
+ExtremeAssertionsFullAdaptiveCopyMS.properties
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/production_Base.properties
+V 107
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/ExtremeAssertionsFullAdaptiveCopyMS.properties
 END
 BaseAdaptiveSemiSpace.properties
 K 25
@@ -219,17 +219,17 @@ svn:wc:ra_dav:version-url
 V 93
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseAdaptiveSemiSpace.properties
 END
-BaseBaseGenRC.properties
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseGenRC.properties
-END
 BaseBaseMarkSweep.properties
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseMarkSweep.properties
+END
+BaseBaseGenRC.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseGenRC.properties
 END
 BaseAdaptiveGenImmix.properties
 K 25
@@ -249,11 +249,11 @@ svn:wc:ra_dav:version-url
 V 92
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseAdaptivePoisoned.properties
 END
-FullAdaptiveMarkSweep.properties
+BaseBaseGenMS.properties
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveMarkSweep.properties
+V 85
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseGenMS.properties
 END
 FullAdaptiveGenRC.properties
 K 25
@@ -261,11 +261,11 @@ svn:wc:ra_dav:version-url
 V 89
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveGenRC.properties
 END
-BaseBaseGenMS.properties
+FullAdaptiveMarkSweep.properties
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseGenMS.properties
+V 93
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullAdaptiveMarkSweep.properties
 END
 BaseBaseGenImmix.properties
 K 25
@@ -279,11 +279,11 @@ svn:wc:ra_dav:version-url
 V 102
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/ExtremeAssertionsBaseBaseGenMS.properties
 END
-FastAdaptiveSemiSpace.properties
+ExtremeAssertionsBaseBaseCopyMS.properties
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveSemiSpace.properties
+V 103
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/ExtremeAssertionsBaseBaseCopyMS.properties
 END
 BaseBaseSemiSpaceGCSpy.properties
 K 25
@@ -291,23 +291,17 @@ svn:wc:ra_dav:version-url
 V 94
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBaseSemiSpaceGCSpy.properties
 END
-ExtremeAssertionsBaseBaseCopyMS.properties
+FastAdaptiveSemiSpace.properties
 K 25
 svn:wc:ra_dav:version-url
-V 103
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/ExtremeAssertionsBaseBaseCopyMS.properties
+V 93
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveSemiSpace.properties
 END
-FastAdaptiveStickyImmix.properties
+FullBaseAdaptiveCopyMS.properties
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveStickyImmix.properties
-END
-FastAdaptiveCopyMS.properties
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveCopyMS.properties
+V 94
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullBaseAdaptiveCopyMS.properties
 END
 BaseBasePoisoned.properties
 K 25
@@ -315,11 +309,17 @@ svn:wc:ra_dav:version-url
 V 88
 /svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/BaseBasePoisoned.properties
 END
-FullBaseAdaptiveCopyMS.properties
+FastAdaptiveCopyMS.properties
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FullBaseAdaptiveCopyMS.properties
+V 90
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveCopyMS.properties
+END
+FastAdaptiveStickyImmix.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jikesrvm/!svn/ver/15672/rvmroot/trunk/build/configs/FastAdaptiveStickyImmix.properties
 END
 FullAdaptiveGenMS.properties
 K 25

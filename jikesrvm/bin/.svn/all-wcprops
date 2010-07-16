@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/svnroot/jikesrvm/!svn/ver/15849/rvmroot/trunk/bin
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/bin
 END
 license-check.rb
 K 25
@@ -67,11 +67,11 @@ buildit
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svnroot/jikesrvm/!svn/ver/15848/rvmroot/trunk/bin/buildit
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/bin/buildit
 END
 normalizeSVNProperties.sh
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/jikesrvm/!svn/ver/15673/rvmroot/trunk/bin/normalizeSVNProperties.sh
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/bin/normalizeSVNProperties.sh
 END

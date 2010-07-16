@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/runtime
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/rvm/src/org/jikesrvm/runtime
 END
 ExceptionDeliverer.java
 K 25
@@ -9,23 +9,23 @@ svn:wc:ra_dav:version-url
 V 99
 /svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/ExceptionDeliverer.java
 END
-DynamicLink.java
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/DynamicLink.java
-END
-BootRecord.java
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/BootRecord.java
-END
 RuntimeEntrypoints.java
 K 25
 svn:wc:ra_dav:version-url
 V 99
 /svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/RuntimeEntrypoints.java
+END
+BootRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/BootRecord.java
+END
+DynamicLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/DynamicLink.java
 END
 MagicNames.java
 K 25
@@ -39,23 +39,17 @@ svn:wc:ra_dav:version-url
 V 97
 /svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/TimeoutException.java
 END
-ObjectAddressRemapper.java
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/ObjectAddressRemapper.java
-END
 Memory.java
 K 25
 svn:wc:ra_dav:version-url
 V 87
 /svnroot/jikesrvm/!svn/ver/15794/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/Memory.java
 END
-DynamicLibrary.java
+ObjectAddressRemapper.java
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/DynamicLibrary.java
+V 102
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/ObjectAddressRemapper.java
 END
 StackBrowser.java
 K 25
@@ -63,17 +57,23 @@ svn:wc:ra_dav:version-url
 V 93
 /svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/StackBrowser.java
 END
-Statics.java
+DynamicLibrary.java
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/Statics.java
+V 95
+/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/DynamicLibrary.java
 END
 SysCall.java
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/svnroot/jikesrvm/!svn/ver/15670/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/SysCall.java
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/SysCall.java
+END
+Statics.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15862/rvmroot/trunk/rvm/src/org/jikesrvm/runtime/Statics.java
 END
 EntrypointHelper.java
 K 25

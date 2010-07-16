@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/jikesrvm/!svn/ver/15845/rvmroot/trunk/MMTk/src/org/mmtk/plan
-END
-SimpleCollector.java
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/SimpleCollector.java
-END
-Phase.java
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/Phase.java
-END
-MutatorContext.java
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/svnroot/jikesrvm/!svn/ver/15809/rvmroot/trunk/MMTk/src/org/mmtk/plan/MutatorContext.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/plan
 END
 GCspyPlan.java
 K 25
@@ -27,17 +9,29 @@ svn:wc:ra_dav:version-url
 V 84
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/GCspyPlan.java
 END
+MutatorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jikesrvm/!svn/ver/15809/rvmroot/trunk/MMTk/src/org/mmtk/plan/MutatorContext.java
+END
+Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/Phase.java
+END
+SimpleCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/SimpleCollector.java
+END
 TraceWriteBuffer.java
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/TraceWriteBuffer.java
-END
-StopTheWorldCollector.java
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/StopTheWorldCollector.java
 END
 SimpleMutator.java
 K 25
@@ -45,23 +39,29 @@ svn:wc:ra_dav:version-url
 V 88
 /svnroot/jikesrvm/!svn/ver/15809/rvmroot/trunk/MMTk/src/org/mmtk/plan/SimpleMutator.java
 END
+StopTheWorldCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/StopTheWorldCollector.java
+END
 TraceLocal.java
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/TraceLocal.java
 END
-StopTheWorldMutator.java
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/StopTheWorldMutator.java
-END
 SimplePhase.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/SimplePhase.java
+END
+StopTheWorldMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/StopTheWorldMutator.java
 END
 SimpleConstraints.java
 K 25
@@ -103,7 +103,7 @@ Plan.java
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/Plan.java
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/MMTk/src/org/mmtk/plan/Plan.java
 END
 CollectorContext.java
 K 25

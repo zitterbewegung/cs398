@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 99
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs
 END
 R1657236.expected
 K 25
@@ -19,7 +19,7 @@ RVM_708.java
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_708.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_708.java
 END
 R1722506.java
 K 25
@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 115
 /svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/R1644460_B.java
 END
-RVM_703.expected
-K 25
-svn:wc:ra_dav:version-url
-V 116
-/svnroot/jikesrvm/!svn/ver/15569/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_703.expected
-END
 RVM_550.expected
 K 25
 svn:wc:ra_dav:version-url
 V 116
 /svnroot/jikesrvm/!svn/ver/14837/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_550.expected
+END
+RVM_703.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15569/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_703.expected
 END
 R1657236.java
 K 25
@@ -97,5 +97,5 @@ RVM_550.java
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_550.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs/RVM_550.java
 END

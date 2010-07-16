@@ -1,15 +1,15 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2010-05-14T06:34:31.762977Z
-15840
-rgarner
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
 
 
 
@@ -32,13 +32,13 @@ dir
 jni
 dir
 
-basic
+perf-dacapo
 dir
 
 SPECjvm2008
 dir
 
-perf-dacapo
+basic
 dir
 
 soot
@@ -53,22 +53,22 @@ dir
 dacapo
 dir
 
-jBYTEmark
-dir
-
 SPECjvm98
 dir
 
-ipsixql
+jBYTEmark
 dir
 
-gctest
+xerces
 dir
 
 perf-jbb2000
 dir
 
-xerces
+gctest
+dir
+
+ipsixql
 dir
 
 javalex

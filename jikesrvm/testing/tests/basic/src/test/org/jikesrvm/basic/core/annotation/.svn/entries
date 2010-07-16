@@ -1,15 +1,15 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/annotation
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2010-06-13T19:39:58.000000Z
+2010-07-16T04:03:52.000000Z
 3b072c93796b5dc11bbe33e54e718d11
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
+has-props
 
 
 

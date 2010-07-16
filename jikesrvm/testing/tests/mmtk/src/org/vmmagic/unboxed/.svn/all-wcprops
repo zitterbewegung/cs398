@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
 V 89
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed
 END
 AddressTest.java
 K 25
 svn:wc:ra_dav:version-url
 V 106
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/AddressTest.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/AddressTest.java
 END
 ObjectReferenceTest.java
 K 25
 svn:wc:ra_dav:version-url
 V 114
-/svnroot/jikesrvm/!svn/ver/15734/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/ObjectReferenceTest.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/ObjectReferenceTest.java
 END
 AddressTestBasic.java
 K 25
 svn:wc:ra_dav:version-url
 V 111
-/svnroot/jikesrvm/!svn/ver/15734/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/AddressTestBasic.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/AddressTestBasic.java
 END
 All.java
 K 25
 svn:wc:ra_dav:version-url
 V 98
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/All.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/All.java
 END
 WordTest.java
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/svnroot/jikesrvm/!svn/ver/15734/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/WordTest.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/vmmagic/unboxed/WordTest.java
 END

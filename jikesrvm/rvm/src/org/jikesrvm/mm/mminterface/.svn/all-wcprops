@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/jikesrvm/!svn/ver/15810/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface
 END
 MemoryManagerConstants.java
 K 25
@@ -55,7 +55,7 @@ Barriers.java
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/Barriers.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/rvm/src/org/jikesrvm/mm/mminterface/Barriers.java
 END
 ThreadContext.java
 K 25

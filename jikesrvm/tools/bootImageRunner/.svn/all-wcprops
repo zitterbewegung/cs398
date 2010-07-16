@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/jikesrvm/!svn/ver/15796/rvmroot/trunk/tools/bootImageRunner
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/tools/bootImageRunner
 END
 cAttributePortability.h
 K 25
@@ -21,23 +21,11 @@ svn:wc:ra_dav:version-url
 V 82
 /svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/rvm.classpath
 END
-perfctr.C
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/perfctr.C
-END
 bootImageRunner.h
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/bootImageRunner.h
-END
-perfctr.h
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/perfctr.h
 END
 harmony.c
 K 25
@@ -49,7 +37,7 @@ sys.C
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/jikesrvm/!svn/ver/15696/rvmroot/trunk/tools/bootImageRunner/sys.C
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/tools/bootImageRunner/sys.C
 END
 cmdLine.h
 K 25
@@ -57,29 +45,29 @@ svn:wc:ra_dav:version-url
 V 78
 /svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/cmdLine.h
 END
-parse_map.perl
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/parse_map.perl
-END
 harmony.exp
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svnroot/jikesrvm/!svn/ver/15544/rvmroot/trunk/tools/bootImageRunner/harmony.exp
 END
-org_jikesrvm_scheduler_greenthreads_VMProcess.c
+parse_map.perl
 K 25
 svn:wc:ra_dav:version-url
-V 116
-/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/org_jikesrvm_scheduler_greenthreads_VMProcess.c
+V 83
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/parse_map.perl
 END
 RunBootImage.C
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svnroot/jikesrvm/!svn/ver/15796/rvmroot/trunk/tools/bootImageRunner/RunBootImage.C
+END
+org_jikesrvm_scheduler_greenthreads_VMProcess.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jikesrvm/!svn/ver/15664/rvmroot/trunk/tools/bootImageRunner/org_jikesrvm_scheduler_greenthreads_VMProcess.c
 END
 jvm.C
 K 25

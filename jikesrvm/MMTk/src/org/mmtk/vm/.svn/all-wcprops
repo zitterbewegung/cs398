@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/src/org/mmtk/vm
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/vm
 END
 Scanning.java
 K 25
@@ -45,17 +45,17 @@ svn:wc:ra_dav:version-url
 V 81
 /svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/MMTk/src/org/mmtk/vm/Barriers.java
 END
-SynchronizedCounter.java
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/SynchronizedCounter.java
-END
 TraceInterface.java
 K 25
 svn:wc:ra_dav:version-url
 V 87
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/TraceInterface.java
+END
+SynchronizedCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/SynchronizedCounter.java
 END
 FinalizableProcessor.java
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/VM.java
 END
-Debug.java
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/MMTk/src/org/mmtk/vm/Debug.java
-END
 ActivePlan.java
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/ActivePlan.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/vm/Debug.java
 END
 ObjectModel.java
 K 25
@@ -103,7 +103,7 @@ Statistics.java
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/vm/Statistics.java
+/svnroot/jikesrvm/!svn/ver/15865/rvmroot/trunk/MMTk/src/org/mmtk/vm/Statistics.java
 END
 Collection.java
 K 25

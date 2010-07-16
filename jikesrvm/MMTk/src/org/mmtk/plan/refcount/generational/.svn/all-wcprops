@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/generational
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/generational
 END
 GenRCModifiedProcessor.java
 K 25
@@ -25,7 +25,7 @@ GenRCFindRootSetTraceLocal.java
 K 25
 svn:wc:ra_dav:version-url
 V 123
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/generational/GenRCFindRootSetTraceLocal.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/generational/GenRCFindRootSetTraceLocal.java
 END
 GenRCMutator.java
 K 25

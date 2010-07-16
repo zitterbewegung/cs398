@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/rvm/src/org/jikesrvm/compilers/opt/regalloc
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -25,40 +25,6 @@ dframpton-oss
 
 
 dce3f540-011b-0410-8642-b5df2b1aa704
-
-CoalesceGraph.java
-file
-
-
-
-
-2010-06-13T19:39:33.000000Z
-005f9265757aaf3a8c33b8ff5717d638
-2009-04-24T15:50:38.674178Z
-15668
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3216
 
 BlockCountSpillCost.java
 file
@@ -93,6 +59,40 @@ has-props
 
 
 2966
+
+CoalesceGraph.java
+file
+
+
+
+
+2010-06-13T19:39:33.000000Z
+005f9265757aaf3a8c33b8ff5717d638
+2009-04-24T15:50:38.674178Z
+15668
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3216
 
 ppc
 dir
@@ -165,40 +165,6 @@ has-props
 
 1349
 
-PrologueEpilogueCreator.java
-file
-
-
-
-
-2010-06-13T19:39:33.000000Z
-0fc8f13e88621c2690d0f30b4cdc55b7
-2009-04-24T15:50:38.674178Z
-15668
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1148
-
 BrainDeadSpillCost.java
 file
 
@@ -232,6 +198,40 @@ has-props
 
 
 948
+
+PrologueEpilogueCreator.java
+file
+
+
+
+
+2010-06-13T19:39:33.000000Z
+0fc8f13e88621c2690d0f30b4cdc55b7
+2009-04-24T15:50:38.674178Z
+15668
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1148
 
 ExpandCallingConvention.java
 file
@@ -267,39 +267,8 @@ has-props
 
 1364
 
-LiveIntervalElement.java
-file
-
-
-
-
-2010-06-13T19:39:33.000000Z
-4e44a3bd77aa142cf2143f78af3ebf3a
-2009-04-24T15:50:38.674178Z
-15668
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2814
+ia32
+dir
 
 Coalesce.java
 file
@@ -335,8 +304,39 @@ has-props
 
 4755
 
-ia32
-dir
+LiveIntervalElement.java
+file
+
+
+
+
+2010-06-13T19:39:33.000000Z
+4e44a3bd77aa142cf2143f78af3ebf3a
+2009-04-24T15:50:38.674178Z
+15668
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2814
 
 LinearScan.java
 file
@@ -372,40 +372,6 @@ has-props
 
 87778
 
-ScratchMap.java
-file
-
-
-
-
-2010-06-13T19:39:33.000000Z
-17f9083610763c8288ac88a83fd7ea54
-2009-04-24T15:50:38.674178Z
-15668
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7681
-
 RegisterAllocator.java
 file
 
@@ -439,6 +405,40 @@ has-props
 
 
 2168
+
+ScratchMap.java
+file
+
+
+
+
+2010-06-13T19:39:33.000000Z
+17f9083610763c8288ac88a83fd7ea54
+2009-04-24T15:50:38.674178Z
+15668
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7681
 
 RegisterAllocatorState.java
 file

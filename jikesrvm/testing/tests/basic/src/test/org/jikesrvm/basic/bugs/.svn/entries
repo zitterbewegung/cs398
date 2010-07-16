@@ -1,15 +1,15 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/bugs
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2010-06-13T19:39:58.000000Z
+2010-07-16T04:03:52.000000Z
 e50110646543603d3ae4548ce886398f
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
+has-props
 
 
 
@@ -230,40 +230,6 @@ has-props
 
 1428
 
-RVM_703.expected
-file
-
-
-
-
-2010-06-13T19:39:58.000000Z
-cf5aa73e93d8a01c529d4248fa1f40c5
-2009-03-09T15:40:35.612029Z
-15569
-dgrove-oss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-124
-
 RVM_550.expected
 file
 
@@ -297,6 +263,40 @@ dframpton-oss
 
 
 10
+
+RVM_703.expected
+file
+
+
+
+
+2010-06-13T19:39:58.000000Z
+cf5aa73e93d8a01c529d4248fa1f40c5
+2009-03-09T15:40:35.612029Z
+15569
+dgrove-oss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+124
 
 R1657236.java
 file
@@ -508,12 +508,12 @@ file
 
 
 
-2010-06-13T19:39:58.000000Z
+2010-07-16T04:03:52.000000Z
 060cff342d3cf643b9135dac7585eb96
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
+has-props
 
 
 

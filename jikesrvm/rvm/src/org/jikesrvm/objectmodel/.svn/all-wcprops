@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel
+/svnroot/jikesrvm/!svn/ver/15859/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel
 END
 ITableArray.java
 K 25
@@ -57,11 +57,11 @@ svn:wc:ra_dav:version-url
 V 103
 /svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayoutContext.java
 END
-ObjectModel.java
+BootImageInterface.java
 K 25
 svn:wc:ra_dav:version-url
-V 96
-/svnroot/jikesrvm/!svn/ver/15685/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ObjectModel.java
+V 103
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/BootImageInterface.java
 END
 JavaHeaderConstants.java
 K 25
@@ -69,17 +69,11 @@ svn:wc:ra_dav:version-url
 V 104
 /svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/JavaHeaderConstants.java
 END
-BootImageInterface.java
+ObjectModel.java
 K 25
 svn:wc:ra_dav:version-url
-V 103
-/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/BootImageInterface.java
-END
-IMT.java
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/IMT.java
+V 96
+/svnroot/jikesrvm/!svn/ver/15858/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/ObjectModel.java
 END
 FieldLayoutPacked.java
 K 25
@@ -87,11 +81,17 @@ svn:wc:ra_dav:version-url
 V 102
 /svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/FieldLayoutPacked.java
 END
+IMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jikesrvm/!svn/ver/15669/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/IMT.java
+END
 JavaHeader.java
 K 25
 svn:wc:ra_dav:version-url
 V 95
-/svnroot/jikesrvm/!svn/ver/15718/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/JavaHeader.java
+/svnroot/jikesrvm/!svn/ver/15859/rvmroot/trunk/rvm/src/org/jikesrvm/objectmodel/JavaHeader.java
 END
 RuntimeTable.java
 K 25

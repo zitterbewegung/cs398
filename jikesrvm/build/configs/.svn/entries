@@ -1,15 +1,15 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/build/configs
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2010-05-21T08:16:12.282204Z
-15845
-rgarner
+2010-06-25T07:25:56.229081Z
+15865
+dframpton-oss
 
 
 
@@ -230,40 +230,6 @@ dgrove-oss
 
 1581
 
-FastBaseAdaptiveGenMS.properties
-file
-
-
-
-
-2010-06-13T19:39:21.000000Z
-ea2afb6c2ad1ba938e645d5f1ff1341c
-2009-04-24T18:32:02.453594Z
-15672
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-597
-
 FastAdaptiveGenCopy.properties
 file
 
@@ -297,6 +263,40 @@ has-props
 
 
 667
+
+FastBaseAdaptiveGenMS.properties
+file
+
+
+
+
+2010-06-13T19:39:21.000000Z
+ea2afb6c2ad1ba938e645d5f1ff1341c
+2009-04-24T18:32:02.453594Z
+15672
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+597
 
 FastBaseAdaptiveCopyMS.properties
 file
@@ -468,6 +468,40 @@ dgrove-oss
 
 470
 
+config.properties.defaults
+file
+
+
+
+
+2010-07-16T04:03:13.000000Z
+58904ea0f7fd16b028d52189cebc526c
+2010-06-25T07:25:56.229081Z
+15865
+dframpton-oss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+887
+
 FullAdaptiveCopyMS.properties
 file
 
@@ -501,40 +535,6 @@ has-props
 
 
 629
-
-config.properties.defaults
-file
-
-
-
-
-2010-06-13T19:39:21.000000Z
-1b7d2517e2f6704dd5354e69991463f1
-2009-04-24T18:32:02.453594Z
-15672
-dgrove-oss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-885
 
 BaseAdaptiveGenMS.properties
 file
@@ -1114,18 +1114,17 @@ dgrove-oss
 
 639
 
-ExtremeAssertionsFullAdaptiveCopyMS.properties
+production_Base.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-8c64cfb53d5cf1860cd041fad958cf08
+6d437359b63e57804448bd1491d1a818
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
-has-props
 
 
 
@@ -1146,7 +1145,8 @@ has-props
 
 
 
-585
+
+629
 
 FullAdaptiveSemiSpaceGCSpy.properties
 file
@@ -1182,17 +1182,18 @@ has-props
 
 639
 
-production_Base.properties
+ExtremeAssertionsFullAdaptiveCopyMS.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-6d437359b63e57804448bd1491d1a818
+8c64cfb53d5cf1860cd041fad958cf08
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
+has-props
 
 
 
@@ -1213,8 +1214,7 @@ dgrove-oss
 
 
 
-
-629
+585
 
 BaseAdaptiveSemiSpace.properties
 file
@@ -1250,40 +1250,6 @@ has-props
 
 558
 
-BaseBaseGenRC.properties
-file
-
-
-
-
-2010-06-13T19:39:21.000000Z
-e9e55cc612d8b1fbf4893978b8cc71f4
-2009-04-24T18:32:02.453594Z
-15672
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-486
-
 BaseBaseMarkSweep.properties
 file
 
@@ -1317,6 +1283,40 @@ has-props
 
 
 471
+
+BaseBaseGenRC.properties
+file
+
+
+
+
+2010-06-13T19:39:21.000000Z
+e9e55cc612d8b1fbf4893978b8cc71f4
+2009-04-24T18:32:02.453594Z
+15672
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+486
 
 BaseAdaptiveGenImmix.properties
 file
@@ -1420,14 +1420,14 @@ has-props
 
 563
 
-FullAdaptiveMarkSweep.properties
+BaseBaseGenMS.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-9652f740e5f6411aa6bd51a3f180e2e8
+641bff26616b39099ce991eb38fa096b
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1452,7 +1452,7 @@ has-props
 
 
 
-628
+487
 
 FullAdaptiveGenRC.properties
 file
@@ -1488,14 +1488,14 @@ has-props
 
 643
 
-BaseBaseGenMS.properties
+FullAdaptiveMarkSweep.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-641bff26616b39099ce991eb38fa096b
+9652f740e5f6411aa6bd51a3f180e2e8
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1520,7 +1520,7 @@ has-props
 
 
 
-487
+628
 
 BaseBaseGenImmix.properties
 file
@@ -1590,14 +1590,14 @@ has-props
 
 513
 
-FastAdaptiveSemiSpace.properties
+ExtremeAssertionsBaseBaseCopyMS.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-bafb394c4d9ddb444c9fdfc2ab5f1e29
+f9dd86825154aa6b7f90fde1879f6481
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1622,7 +1622,7 @@ has-props
 
 
 
-651
+498
 
 BaseBaseSemiSpaceGCSpy.properties
 file
@@ -1658,14 +1658,14 @@ has-props
 
 508
 
-ExtremeAssertionsBaseBaseCopyMS.properties
+FastAdaptiveSemiSpace.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-f9dd86825154aa6b7f90fde1879f6481
+bafb394c4d9ddb444c9fdfc2ab5f1e29
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1690,50 +1690,16 @@ has-props
 
 
 
-498
+651
 
-FastAdaptiveStickyImmix.properties
+FullBaseAdaptiveCopyMS.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-c1a8be36dfac17f8533c6b611462ccb6
-2009-04-24T18:32:02.453594Z
-15672
-dgrove-oss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-662
-
-FastAdaptiveCopyMS.properties
-file
-
-
-
-
-2010-06-13T19:39:21.000000Z
-33e9cff9fa6fc7626b36279cf1243491
+e4894199396feb1f3a15fcf1374eda88
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1758,7 +1724,7 @@ has-props
 
 
 
-629
+558
 
 BaseBasePoisoned.properties
 file
@@ -1794,14 +1760,14 @@ has-props
 
 476
 
-FullBaseAdaptiveCopyMS.properties
+FastAdaptiveCopyMS.properties
 file
 
 
 
 
 2010-06-13T19:39:21.000000Z
-e4894199396feb1f3a15fcf1374eda88
+33e9cff9fa6fc7626b36279cf1243491
 2009-04-24T18:32:02.453594Z
 15672
 dgrove-oss
@@ -1826,7 +1792,41 @@ has-props
 
 
 
-558
+629
+
+FastAdaptiveStickyImmix.properties
+file
+
+
+
+
+2010-06-13T19:39:21.000000Z
+c1a8be36dfac17f8533c6b611462ccb6
+2009-04-24T18:32:02.453594Z
+15672
+dgrove-oss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+662
 
 FullAdaptiveGenMS.properties
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/rvm/src/org/jikesrvm/util
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -25,40 +25,6 @@ dgrove-oss
 
 
 dce3f540-011b-0410-8642-b5df2b1aa704
-
-LinkedListIteratorRVM.java
-file
-
-
-
-
-2010-06-13T19:39:45.000000Z
-601268079dd9289f464a790b1a0142c0
-2009-04-24T16:17:42.147594Z
-15670
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2250
 
 BitVector.java
 file
@@ -94,14 +60,14 @@ has-props
 
 6572
 
-StringUtilities.java
+LinkedListIteratorRVM.java
 file
 
 
 
 
 2010-06-13T19:39:45.000000Z
-6404abbd2b56bca4317fcf3fd46c8a90
+601268079dd9289f464a790b1a0142c0
 2009-04-24T16:17:42.147594Z
 15670
 dgrove-oss
@@ -126,7 +92,7 @@ has-props
 
 
 
-2647
+2250
 
 ImmutableEntryIdentityHashMapRVM.java
 file
@@ -162,14 +128,14 @@ has-props
 
 1391
 
-ImmutableEntryHashSetRVM.java
+StringUtilities.java
 file
 
 
 
 
 2010-06-13T19:39:45.000000Z
-44ec6c777ae4e65ff2fc8442f8d3cf20
+6404abbd2b56bca4317fcf3fd46c8a90
 2009-04-24T16:17:42.147594Z
 15670
 dgrove-oss
@@ -194,7 +160,7 @@ has-props
 
 
 
-1566
+2647
 
 HashMapRVM.java
 file
@@ -230,14 +196,14 @@ has-props
 
 1737
 
-EmptyIterator.java
+ImmutableEntryHashSetRVM.java
 file
 
 
 
 
 2010-06-13T19:39:45.000000Z
-f51eea781578bcfa217a181551d3da24
+44ec6c777ae4e65ff2fc8442f8d3cf20
 2009-04-24T16:17:42.147594Z
 15670
 dgrove-oss
@@ -262,7 +228,7 @@ has-props
 
 
 
-727
+1566
 
 AbstractHashSetRVM.java
 file
@@ -297,6 +263,40 @@ has-props
 
 
 4871
+
+EmptyIterator.java
+file
+
+
+
+
+2010-06-13T19:39:45.000000Z
+f51eea781578bcfa217a181551d3da24
+2009-04-24T16:17:42.147594Z
+15670
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+727
 
 PriorityQueueRVM.java
 file

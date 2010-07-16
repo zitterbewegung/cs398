@@ -1,14 +1,14 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/rvm/src/org/jikesrvm
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2010-06-01T06:20:21.301931Z
-15850
+2010-06-29T06:57:17.917418Z
+15867
 dframpton-oss
 
 
@@ -66,9 +66,6 @@ dir
 ppc
 dir
 
-runtime
-dir
-
 CommandLineArgs.java
 file
 
@@ -103,13 +100,13 @@ has-props
 
 34772
 
+runtime
+dir
+
 apt
 dir
 
 tuningfork
-dir
-
-objectmodel
 dir
 
 SizeConstants.java
@@ -145,6 +142,9 @@ has-props
 
 
 3079
+
+objectmodel
+dir
 
 MachineSpecific.java
 file
@@ -183,9 +183,6 @@ has-props
 options
 dir
 
-classloader
-dir
-
 Constants.java
 file
 
@@ -220,10 +217,13 @@ has-props
 
 1598
 
-compilers
+classloader
 dir
 
 adaptive
+dir
+
+compilers
 dir
 
 ia32

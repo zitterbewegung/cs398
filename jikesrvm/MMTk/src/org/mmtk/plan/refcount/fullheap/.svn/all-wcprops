@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/fullheap
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/fullheap
 END
 RCFindRootSetTraceLocal.java
 K 25
 svn:wc:ra_dav:version-url
 V 116
-/svnroot/jikesrvm/!svn/ver/15662/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/fullheap/RCFindRootSetTraceLocal.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/MMTk/src/org/mmtk/plan/refcount/fullheap/RCFindRootSetTraceLocal.java
 END
 RCMutator.java
 K 25

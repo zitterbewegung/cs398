@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/rvm/src/org/jikesrvm/osr/bytecodes
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -264,40 +264,6 @@ has-props
 
 789
 
-LongStore.java
-file
-
-
-
-
-2010-06-13T19:39:44.000000Z
-ba84f0ce531c88ca38ccbbb82ca1abb2
-2009-04-24T16:17:42.147594Z
-15670
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1080
-
 LoadFloatConst.java
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 1034
+
+LongStore.java
+file
+
+
+
+
+2010-06-13T19:39:44.000000Z
+ba84f0ce531c88ca38ccbbb82ca1abb2
+2009-04-24T16:17:42.147594Z
+15670
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1080
 
 PseudoBytecode.java
 file
@@ -400,14 +400,14 @@ has-props
 
 1079
 
-LoadWordConst.java
+AConstNull.java
 file
 
 
 
 
 2010-06-13T19:39:44.000000Z
-90232478ea6c0797cdbe79c31249ceba
+63c78628c0d1dc93d255e9f0b69ac295
 2009-04-24T16:17:42.147594Z
 15670
 dgrove-oss
@@ -432,7 +432,7 @@ has-props
 
 
 
-1096
+806
 
 FloatStore.java
 file
@@ -468,14 +468,14 @@ has-props
 
 1086
 
-AConstNull.java
+LoadWordConst.java
 file
 
 
 
 
 2010-06-13T19:39:44.000000Z
-63c78628c0d1dc93d255e9f0b69ac295
+90232478ea6c0797cdbe79c31249ceba
 2009-04-24T16:17:42.147594Z
 15670
 dgrove-oss
@@ -500,7 +500,7 @@ has-props
 
 
 
-806
+1096
 
 DoubleStore.java
 file

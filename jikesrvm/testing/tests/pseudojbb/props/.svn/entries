@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/pseudojbb/props
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -740,40 +740,6 @@ has-props
 
 4489
 
-pseudojbb_1.120000.props
-file
-
-
-
-
-2010-06-13T19:40:10.000000Z
-703e0a2550d3f9ae17c3f1db99633783
-2007-05-17T00:38:14.923587Z
-12173
-peter_donald
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4513
-
 pseudojbb_2.200000.props
 file
 
@@ -808,48 +774,14 @@ has-props
 
 4513
 
-pseudojbb_4.200000.props
+pseudojbb_1.120000.props
 file
 
 
 
 
 2010-06-13T19:40:10.000000Z
-475aff375d98487164beba6d5fc8e0a0
-2007-05-17T00:38:14.923587Z
-12173
-peter_donald
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4510
-
-pseudojbb_3.120000.props
-file
-
-
-
-
-2010-06-13T19:40:10.000000Z
-4738ede9ef5fea7980b3bf254374c3cc
+703e0a2550d3f9ae17c3f1db99633783
 2007-05-17T00:38:14.923587Z
 12173
 peter_donald
@@ -910,14 +842,14 @@ has-props
 
 4513
 
-pseudojbb_2.600000.props
+pseudojbb_3.120000.props
 file
 
 
 
 
 2010-06-13T19:40:10.000000Z
-b90741ce52a9b8dea098d7ac51fb54d7
+4738ede9ef5fea7980b3bf254374c3cc
 2007-05-17T00:38:14.923587Z
 12173
 peter_donald
@@ -943,6 +875,74 @@ has-props
 
 
 4513
+
+pseudojbb_4.200000.props
+file
+
+
+
+
+2010-06-13T19:40:10.000000Z
+475aff375d98487164beba6d5fc8e0a0
+2007-05-17T00:38:14.923587Z
+12173
+peter_donald
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4510
+
+pseudojbb_4.400000.props
+file
+
+
+
+
+2010-06-13T19:40:10.000000Z
+18b719f8e6257aab73cf530951c2a573
+2007-05-17T00:38:14.923587Z
+12173
+peter_donald
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4510
 
 pseudojbb_1.160000.props
 file
@@ -978,14 +978,14 @@ has-props
 
 4513
 
-pseudojbb_4.400000.props
+pseudojbb_2.600000.props
 file
 
 
 
 
 2010-06-13T19:40:10.000000Z
-18b719f8e6257aab73cf530951c2a573
+b90741ce52a9b8dea098d7ac51fb54d7
 2007-05-17T00:38:14.923587Z
 12173
 peter_donald
@@ -1010,7 +1010,7 @@ has-props
 
 
 
-4510
+4513
 
 pseudojbb.sanity.props
 file

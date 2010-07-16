@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/classpath-testsuite/expected
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -298,40 +298,6 @@ captain5050
 
 53
 
-OutOfMemoryErrorTest.expected
-file
-
-
-
-
-2010-06-13T19:40:10.000000Z
-5fc5c0ffcdce22396e73ff4235aba80f
-2008-03-31T15:58:18.299508Z
-14076
-captain5050
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9
-
 JoinTest.expected
 file
 
@@ -365,6 +331,40 @@ captain5050
 
 
 86
+
+OutOfMemoryErrorTest.expected
+file
+
+
+
+
+2010-06-13T19:40:10.000000Z
+5fc5c0ffcdce22396e73ff4235aba80f
+2008-03-31T15:58:18.299508Z
+14076
+captain5050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
 
 SimpleDateFormatTest.expected
 file
@@ -400,40 +400,6 @@ captain5050
 
 37
 
-RandomAccessFileTest.expected
-file
-
-
-
-
-2010-06-13T19:40:10.000000Z
-cddf5eb7da416fc69dae9f59f2055a02
-2008-03-31T15:58:18.299508Z
-14076
-captain5050
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-33
-
 URLTest.expected
 file
 
@@ -467,6 +433,40 @@ captain5050
 
 
 28
+
+RandomAccessFileTest.expected
+file
+
+
+
+
+2010-06-13T19:40:10.000000Z
+cddf5eb7da416fc69dae9f59f2055a02
+2008-03-31T15:58:18.299508Z
+14076
+captain5050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
 
 LongFieldTest.expected
 file

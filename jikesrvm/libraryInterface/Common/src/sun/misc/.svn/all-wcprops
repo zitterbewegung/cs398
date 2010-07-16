@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/libraryInterface/Common/src/sun/misc
+/svnroot/jikesrvm/!svn/ver/15902/rvmroot/trunk/libraryInterface/Common/src/sun/misc
 END
 Unsafe.java
 K 25
 svn:wc:ra_dav:version-url
 V 95
-/svnroot/jikesrvm/!svn/ver/15805/rvmroot/trunk/libraryInterface/Common/src/sun/misc/Unsafe.java
+/svnroot/jikesrvm/!svn/ver/15902/rvmroot/trunk/libraryInterface/Common/src/sun/misc/Unsafe.java
 END

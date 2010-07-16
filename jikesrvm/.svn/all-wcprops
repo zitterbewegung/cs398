@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/svnroot/jikesrvm/!svn/ver/15851/rvmroot/trunk
+/svnroot/jikesrvm/!svn/ver/15902/rvmroot/trunk
 END
 LICENSE.html
 K 25
@@ -19,13 +19,13 @@ NEWS.txt
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/svnroot/jikesrvm/!svn/ver/15709/rvmroot/trunk/NEWS.txt
+/svnroot/jikesrvm/!svn/ver/15881/rvmroot/trunk/NEWS.txt
 END
 build.xml
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/svnroot/jikesrvm/!svn/ver/15840/rvmroot/trunk/build.xml
+/svnroot/jikesrvm/!svn/ver/15877/rvmroot/trunk/build.xml
 END
 test.xml
 K 25

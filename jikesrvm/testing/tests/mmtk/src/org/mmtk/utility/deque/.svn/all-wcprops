@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/utility/deque
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/utility/deque
 END
 ObjectReferenceDequeTest.java
 K 25
 svn:wc:ra_dav:version-url
 V 122
-/svnroot/jikesrvm/!svn/ver/15663/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/utility/deque/ObjectReferenceDequeTest.java
+/svnroot/jikesrvm/!svn/ver/15867/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/utility/deque/ObjectReferenceDequeTest.java
 END

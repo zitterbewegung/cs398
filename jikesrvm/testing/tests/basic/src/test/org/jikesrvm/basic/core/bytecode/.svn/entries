@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/basic/src/test/org/jikesrvm/basic/core/bytecode
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -536,40 +536,6 @@ has-props
 
 1135
 
-TestResolveOnInstanceof.java
-file
-
-
-
-
-2010-06-13T19:39:59.000000Z
-b1cd72ce096a43a29098b0449617a094
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1075
-
 TestCompare.java
 file
 
@@ -604,14 +570,14 @@ has-props
 
 4934
 
-TestInstanceOf.java
+TestResolveOnInstanceof.java
 file
 
 
 
 
 2010-06-13T19:39:59.000000Z
-1318e11f48e4bd9e1bf18d8a21d0b5fb
+b1cd72ce096a43a29098b0449617a094
 2009-04-24T15:03:36.090297Z
 15663
 dgrove-oss
@@ -636,41 +602,10 @@ has-props
 
 
 
-3584
+1075
 
-TestArithmetic.java
-file
-
-
-
-
-2010-06-13T19:39:59.000000Z
-e7d3042e93b9bd77563ccad3634abda1
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32314
+data
+dir
 
 TestClassInitializer.expected
 file
@@ -706,8 +641,73 @@ peter_donald
 
 100
 
-data
-dir
+TestArithmetic.java
+file
+
+
+
+
+2010-06-13T19:39:59.000000Z
+e7d3042e93b9bd77563ccad3634abda1
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32314
+
+TestInstanceOf.java
+file
+
+
+
+
+2010-06-13T19:39:59.000000Z
+1318e11f48e4bd9e1bf18d8a21d0b5fb
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3584
 
 TestMiranda.expected
 file
@@ -913,40 +913,6 @@ peter_donald
 
 196
 
-TestResolveOnInstanceof.expected
-file
-
-
-
-
-2010-06-13T19:39:59.000000Z
-d200950a0011f38aaceac82b4f018ad1
-2007-02-11T09:42:13.327280Z
-11462
-peter_donald
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-196
-
 TestCompare.expected
 file
 
@@ -980,6 +946,40 @@ peter_donald
 
 
 322
+
+TestResolveOnInstanceof.expected
+file
+
+
+
+
+2010-06-13T19:39:59.000000Z
+d200950a0011f38aaceac82b4f018ad1
+2007-02-11T09:42:13.327280Z
+11462
+peter_donald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+196
 
 TestFloatingRem.java
 file

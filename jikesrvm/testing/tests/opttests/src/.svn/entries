@@ -1,7 +1,7 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/opttests/src
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
@@ -25,40 +25,6 @@ dgrove-oss
 
 
 dce3f540-011b-0410-8642-b5df2b1aa704
-
-inlineTest5.java
-file
-
-
-
-
-2010-06-13T19:40:01.000000Z
-a4f51c2ff50f19e4b3ecc1ad3735ac34
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1056
 
 hello.java
 file
@@ -93,6 +59,40 @@ has-props
 
 
 827
+
+inlineTest5.java
+file
+
+
+
+
+2010-06-13T19:40:01.000000Z
+a4f51c2ff50f19e4b3ecc1ad3735ac34
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1056
 
 stack.java
 file
@@ -434,40 +434,6 @@ has-props
 
 8303
 
-TestArithmetic.java
-file
-
-
-
-
-2010-06-13T19:40:01.000000Z
-35b06f02516f1263b8b5baf3f48c7215
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9395
-
 TestInstanceOf.java
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 3408
+
+TestArithmetic.java
+file
+
+
+
+
+2010-06-13T19:40:01.000000Z
+35b06f02516f1263b8b5baf3f48c7215
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9395
 
 virtUnresolved.java
 file
@@ -1352,40 +1352,6 @@ has-props
 
 1427
 
-EscapeTest.java
-file
-
-
-
-
-2010-06-13T19:40:01.000000Z
-5dbb2588cab32c2208368994d29e4a74
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1260
-
 TestArrayAccess.java
 file
 
@@ -1419,6 +1385,40 @@ has-props
 
 
 11716
+
+EscapeTest.java
+file
+
+
+
+
+2010-06-13T19:40:01.000000Z
+5dbb2588cab32c2208368994d29e4a74
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1260
 
 inlineTest3.java
 file
@@ -1522,40 +1522,6 @@ has-props
 
 1287
 
-inlineTest7.java
-file
-
-
-
-
-2010-06-13T19:40:01.000000Z
-70cc0cc424130542505c956b1ed709ed
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-864
-
 TestFieldAccess.java
 file
 
@@ -1589,6 +1555,40 @@ has-props
 
 
 4231
+
+inlineTest7.java
+file
+
+
+
+
+2010-06-13T19:40:01.000000Z
+70cc0cc424130542505c956b1ed709ed
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+864
 
 TestConversions.java
 file
@@ -1998,40 +1998,6 @@ has-props
 
 3673
 
-ExceptionTest.java
-file
-
-
-
-
-2010-06-13T19:40:01.000000Z
-b394cb10d3d79235688c2bd360a8341c
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2090
-
 tak_long.java
 file
 
@@ -2065,6 +2031,40 @@ has-props
 
 
 1118
+
+ExceptionTest.java
+file
+
+
+
+
+2010-06-13T19:40:01.000000Z
+b394cb10d3d79235688c2bd360a8341c
+2009-04-24T15:03:36.090297Z
+15663
+dgrove-oss
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2090
 
 milestone.java
 file

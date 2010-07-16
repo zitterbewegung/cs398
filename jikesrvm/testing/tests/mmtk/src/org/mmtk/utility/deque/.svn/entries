@@ -1,15 +1,15 @@
 10
 
 dir
-15857
+15913
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm/rvmroot/trunk/testing/tests/mmtk/src/org/mmtk/utility/deque
 https://jikesrvm.svn.sourceforge.net/svnroot/jikesrvm
 
 
 
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
 
 
 
@@ -32,12 +32,12 @@ file
 
 
 
-2010-06-13T19:40:09.000000Z
+2010-07-16T04:03:58.000000Z
 b322e135fd3f37aa2248e452dddaf272
-2009-04-24T15:03:36.090297Z
-15663
-dgrove-oss
-
+2010-06-29T06:57:17.917418Z
+15867
+dframpton-oss
+has-props
 
 
 
